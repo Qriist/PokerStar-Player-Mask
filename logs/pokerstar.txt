@@ -1,0 +1,3964 @@
+PokerStars Hand #181946721870:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 7:56:04 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: GalfondLOL ($200 in chips)
+Seat 2: max160714 ($83.55 in chips)
+Seat 3: AlexKalugin ($200 in chips)
+Seat 4: pkmikhail ($203.55 in chips)
+Seat 5: Dimastiy X ($200 in chips)
+Seat 6: bogec ($200 in chips)
+bogec: posts small blind $1
+GalfondLOL: posts big blind $2
+*** HOLE CARDS ***
+max160714: folds
+AlexKalugin: folds
+pkmikhail: folds
+Dimastiy X: raises $3 to $5
+bogec: folds
+GalfondLOL: raises $13 to $18
+Dimastiy X: calls $13
+*** FLOP *** [2d 3d 2s]
+GalfondLOL: bets $18.63
+Dimastiy X: calls $18.63
+*** TURN *** [2d 3d 2s] [Ts]
+max160714 is disconnected
+GalfondLOL: checks
+Dimastiy X: checks
+*** RIVER *** [2d 3d 2s Ts] [7d]
+GalfondLOL: checks
+Dimastiy X: bets $64
+GalfondLOL: folds
+Uncalled bet ($64) returned to Dimastiy X
+Dimastiy X collected $71.51 from pot
+Dimastiy X: doesn't show hand
+*** SUMMARY ***
+Total pot $74.26 | Rake $2.75
+Board [2d 3d 2s Ts 7d]
+Seat 1: GalfondLOL (big blind) folded on the River
+Seat 2: max160714 folded before Flop (didn't bet)
+Seat 3: AlexKalugin folded before Flop (didn't bet)
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X (button) collected ($71.51)
+Seat 6: bogec (small blind) folded before Flop
+
+
+PokerStars Hand #181946843994:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 7:59:56 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: GalfondLOL ($203 in chips)
+Seat 3: AlexKalugin ($200 in chips)
+Seat 4: pkmikhail ($243.80 in chips)
+Seat 5: Dimastiy X ($200 in chips)
+Seat 6: bogec ($200 in chips)
+pkmikhail: posts small blind $1
+Dimastiy X: posts big blind $2
+*** HOLE CARDS ***
+bogec: folds
+GalfondLOL: folds
+AlexKalugin: raises $3 to $5
+pkmikhail: folds
+Dimastiy X: folds
+Uncalled bet ($3) returned to AlexKalugin
+AlexKalugin collected $5 from pot
+AlexKalugin: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: GalfondLOL folded before Flop (didn't bet)
+Seat 3: AlexKalugin (button) collected ($5)
+Seat 4: pkmikhail (small blind) folded before Flop
+Seat 5: Dimastiy X (big blind) folded before Flop
+Seat 6: bogec folded before Flop (didn't bet)
+
+
+PokerStars Hand #181946835477:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 7:59:40 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: GalfondLOL ($200 in chips)
+Seat 3: AlexKalugin ($200 in chips)
+Seat 4: pkmikhail ($245.80 in chips)
+Seat 5: Dimastiy X ($200 in chips)
+Seat 6: bogec ($200 in chips)
+AlexKalugin: posts small blind $1
+pkmikhail: posts big blind $2
+*** HOLE CARDS ***
+Dimastiy X: folds
+bogec: folds
+GalfondLOL: raises $3 to $5
+AlexKalugin: folds
+pkmikhail: folds
+Uncalled bet ($3) returned to GalfondLOL
+GalfondLOL collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: GalfondLOL (button) collected ($5)
+Seat 3: AlexKalugin (small blind) folded before Flop
+Seat 4: pkmikhail (big blind) folded before Flop
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: bogec folded before Flop (didn't bet)
+
+
+PokerStars Hand #181946786485:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 7:58:07 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: GalfondLOL ($200 in chips)
+Seat 3: AlexKalugin ($200 in chips)
+Seat 4: pkmikhail ($203.55 in chips)
+Seat 5: Dimastiy X ($234.88 in chips)
+Seat 6: bogec ($200 in chips)
+GalfondLOL: posts small blind $1
+max160714 has timed out while disconnected
+max160714: is sitting out
+AlexKalugin: posts big blind $2
+*** HOLE CARDS ***
+pkmikhail: raises $2.70 to $4.70
+Dimastiy X: raises $11.30 to $16
+bogec: folds
+GalfondLOL: folds
+AlexKalugin: folds
+pkmikhail: raises $26 to $42
+Dimastiy X: calls $26
+*** FLOP *** [4c Kc 9s]
+pkmikhail: bets $46.34
+Dimastiy X: folds
+Uncalled bet ($46.34) returned to pkmikhail
+pkmikhail collected $84.25 from pot
+pkmikhail: doesn't show hand
+*** SUMMARY ***
+Total pot $87 | Rake $2.75
+Board [4c Kc 9s]
+Seat 1: GalfondLOL (small blind) folded before Flop
+Seat 3: AlexKalugin (big blind) folded before Flop
+Seat 4: pkmikhail collected ($84.25)
+Seat 5: Dimastiy X folded on the Flop
+Seat 6: bogec (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181946876229:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:00:53 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: GalfondLOL ($201 in chips)
+Seat 4: pkmikhail ($226.80 in chips)
+Seat 5: Dimastiy X ($200 in chips)
+GalfondLOL: posts small blind $1
+AlexKalugin: is sitting out
+pkmikhail: posts big blind $2
+*** HOLE CARDS ***
+AlexKalugin leaves the table
+E.Tokio13 joins the table at seat #3
+Dimastiy X: folds
+GalfondLOL: raises $3 to $5
+pkmikhail: folds
+Uncalled bet ($3) returned to GalfondLOL
+GalfondLOL collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0
+Seat 1: GalfondLOL (small blind) collected ($4)
+Seat 4: pkmikhail (big blind) folded before Flop
+Seat 5: Dimastiy X (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181946854478:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:00:15 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: GalfondLOL ($203 in chips)
+Seat 3: AlexKalugin ($203 in chips)
+Seat 4: pkmikhail ($242.80 in chips)
+Seat 5: Dimastiy X ($200 in chips)
+Dimastiy X: posts small blind $1
+bogec: is sitting out
+GalfondLOL: posts big blind $2
+*** HOLE CARDS ***
+AlexKalugin: raises $3 to $5
+pkmikhail: raises $11 to $16
+Dimastiy X: folds
+GalfondLOL: folds
+AlexKalugin: raises $24 to $40
+pkmikhail: folds
+Uncalled bet ($24) returned to AlexKalugin
+AlexKalugin collected $35 from pot
+AlexKalugin: doesn't show hand
+*** SUMMARY ***
+Total pot $35 | Rake $0
+Seat 1: GalfondLOL (big blind) folded before Flop
+Seat 3: AlexKalugin collected ($35)
+Seat 4: pkmikhail (button) folded before Flop
+Seat 5: Dimastiy X (small blind) folded before Flop
+
+
+PokerStars Hand #181946924139:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:02:13 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 3: RedmondHUN ($200 in chips)
+Seat 4: pkmikhail ($225.10 in chips)
+Seat 5: Kokaro ($200 in chips)
+RedmondHUN: posts small blind $1
+pkmikhail: posts big blind $2
+*** HOLE CARDS ***
+BronKKAA joins the table at seat #1
+Kokaro has timed out
+Kokaro: folds
+bogec leaves the table
+BronKKAA leaves the table
+RedmondHUN: folds
+Uncalled bet ($1) returned to pkmikhail
+pkmikhail collected $2 from pot
+pkmikhail: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 3: RedmondHUN (small blind) folded before Flop
+Seat 4: pkmikhail (big blind) collected ($2)
+Seat 5: Kokaro (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181947332173:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:13:16 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($200 in chips)
+Seat 2: 46onion46 ($100 in chips)
+Seat 3: Piepen-Maker ($200 in chips)
+Seat 4: pkmikhail ($206.10 in chips)
+46onion46: posts small blind $1
+Piepen-Maker: posts big blind $2
+*** HOLE CARDS ***
+pkmikhail: folds
+Reikka89: folds
+46onion46: raises $4 to $6
+romioxf joins the table at seat #6
+Piepen-Maker: folds
+Uncalled bet ($4) returned to 46onion46
+46onion46 collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 2: 46onion46 (small blind) collected ($4)
+Seat 3: Piepen-Maker (big blind) folded before Flop
+Seat 4: pkmikhail folded before Flop (didn't bet)
+
+
+PokerStars Hand #181947355449:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:13:53 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($200 in chips)
+Seat 2: 46onion46 ($102 in chips)
+Seat 3: Piepen-Maker ($200 in chips)
+Seat 4: pkmikhail ($206.10 in chips)
+Piepen-Maker: posts small blind $1
+pkmikhail: posts big blind $2
+romioxf: sits out
+*** HOLE CARDS ***
+Reikka89: folds
+46onion46: raises $2 to $4
+Piepen-Maker: folds
+pkmikhail: calls $2
+*** FLOP *** [9d 7c 2c]
+pkmikhail: checks
+46onion46: bets $8
+pkmikhail: folds
+Uncalled bet ($8) returned to 46onion46
+46onion46 collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45
+Board [9d 7c 2c]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 (button) collected ($8.55)
+Seat 3: Piepen-Maker (small blind) folded before Flop
+Seat 4: pkmikhail (big blind) folded on the Flop
+
+
+PokerStars Hand #181947384579:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:14:39 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: Reikka89 ($200 in chips)
+Seat 2: 46onion46 ($106.55 in chips)
+Seat 3: Piepen-Maker ($200 in chips)
+Seat 4: pkmikhail ($202.10 in chips)
+Seat 5: Dimastiy X ($200 in chips)
+pkmikhail: posts small blind $1
+Dimastiy X: posts big blind $2
+romioxf: sits out
+*** HOLE CARDS ***
+Reikka89: raises $3.88 to $5.88
+46onion46: calls $5.88
+Piepen-Maker: folds
+pkmikhail: folds
+Dimastiy X: folds
+*** FLOP *** [7d 8s Qh]
+Reikka89: bets $9.39
+46onion46: folds
+Uncalled bet ($9.39) returned to Reikka89
+Reikka89 collected $14.02 from pot
+*** SUMMARY ***
+Total pot $14.76 | Rake $0.74
+Board [7d 8s Qh]
+Seat 1: Reikka89 collected ($14.02)
+Seat 2: 46onion46 folded on the Flop
+Seat 3: Piepen-Maker (button) folded before Flop (didn't bet)
+Seat 4: pkmikhail (small blind) folded before Flop
+Seat 5: Dimastiy X (big blind) folded before Flop
+
+
+PokerStars Hand #181947413476:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:15:25 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($208.14 in chips)
+Seat 2: 46onion46 ($100.67 in chips)
+Seat 3: Piepen-Maker ($200 in chips)
+Seat 4: pkmikhail ($201.10 in chips)
+Seat 5: Dimastiy X ($200 in chips)
+Seat 6: romioxf ($200 in chips)
+Dimastiy X: posts small blind $1
+romioxf: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: raises $3.88 to $5.88
+46onion46: calls $5.88
+Piepen-Maker: folds
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: folds
+*** FLOP *** [3d Ts Ac]
+Reikka89: bets $9.39
+46onion46: folds
+Uncalled bet ($9.39) returned to Reikka89
+Reikka89 collected $14.02 from pot
+*** SUMMARY ***
+Total pot $14.76 | Rake $0.74
+Board [3d Ts Ac]
+Seat 1: Reikka89 collected ($14.02)
+Seat 2: 46onion46 folded on the Flop
+Seat 3: Piepen-Maker folded before Flop (didn't bet)
+Seat 4: pkmikhail (button) folded before Flop (didn't bet)
+Seat 5: Dimastiy X (small blind) folded before Flop
+Seat 6: romioxf (big blind) folded before Flop
+
+
+PokerStars Hand #181947425411:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:15:44 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($216.28 in chips)
+Seat 2: 46onion46 ($94.79 in chips)
+Seat 3: Piepen-Maker ($200 in chips)
+Seat 4: pkmikhail ($201.10 in chips)
+Seat 5: Dimastiy X ($200 in chips)
+Seat 6: romioxf ($198 in chips)
+romioxf: posts small blind $1
+Reikka89: posts big blind $2
+*** HOLE CARDS ***
+46onion46: folds
+Piepen-Maker: folds
+pkmikhail: folds
+Dimastiy X: raises $3 to $5
+romioxf: folds
+Reikka89: calls $3
+*** FLOP *** [5h 7d As]
+Reikka89: checks
+Dimastiy X: bets $3.44
+Reikka89: calls $3.44
+*** TURN *** [5h 7d As] [7s]
+Reikka89: checks
+Dimastiy X: checks
+*** RIVER *** [5h 7d As 7s] [5d]
+Reikka89: bets $13.76
+Dimastiy X: folds
+Uncalled bet ($13.76) returned to Reikka89
+Reikka89 collected $16.99 from pot
+*** SUMMARY ***
+Total pot $17.88 | Rake $0.89
+Board [5h 7d As 7s 5d]
+Seat 1: Reikka89 (big blind) collected ($16.99)
+Seat 2: 46onion46 folded before Flop (didn't bet)
+Seat 3: Piepen-Maker folded before Flop (didn't bet)
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X (button) folded on the River
+Seat 6: romioxf (small blind) folded before Flop
+
+
+PokerStars Hand #181947482417:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:17:13 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: Reikka89 ($224.83 in chips)
+Seat 2: 46onion46 ($94.79 in chips)
+Seat 3: Piepen-Maker ($200 in chips)
+Seat 4: pkmikhail ($201.10 in chips)
+Seat 5: Dimastiy X ($200 in chips)
+Seat 6: romioxf ($197 in chips)
+Reikka89: posts small blind $1
+46onion46: posts big blind $2
+*** HOLE CARDS ***
+Piepen-Maker: folds
+pkmikhail: folds
+Dimastiy X: raises $3 to $5
+romioxf: folds
+Reikka89: folds
+46onion46: raises $9 to $14
+Dimastiy X: folds
+Uncalled bet ($9) returned to 46onion46
+46onion46 collected $11 from pot
+*** SUMMARY ***
+Total pot $11 | Rake $0
+Seat 1: Reikka89 (small blind) folded before Flop
+Seat 2: 46onion46 (big blind) collected ($11)
+Seat 3: Piepen-Maker folded before Flop (didn't bet)
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X folded before Flop
+Seat 6: romioxf (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181947507518:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:17:53 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($223.83 in chips)
+Seat 2: 46onion46 ($100.79 in chips)
+Seat 4: pkmikhail ($201.10 in chips)
+Seat 5: Dimastiy X ($200 in chips)
+Seat 6: romioxf ($197 in chips)
+46onion46: posts small blind $1
+Piepen-Maker: is sitting out
+pkmikhail: posts big blind $2
+*** HOLE CARDS ***
+Dimastiy X: folds
+romioxf: raises $4 to $6
+Reikka89: folds
+46onion46: folds
+Piepen-Maker leaves the table
+pkmikhail: raises $14 to $20
+romioxf: folds
+Uncalled bet ($14) returned to pkmikhail
+pkmikhail collected $13 from pot
+pkmikhail: doesn't show hand
+*** SUMMARY ***
+Total pot $13 | Rake $0
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 2: 46onion46 (small blind) folded before Flop
+Seat 4: pkmikhail (big blind) collected ($13)
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf folded before Flop
+
+
+PokerStars Hand #181947537565:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:18:41 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($223.83 in chips)
+Seat 2: 46onion46 ($99.79 in chips)
+Seat 4: pkmikhail ($208.10 in chips)
+Seat 5: Dimastiy X ($200 in chips)
+Seat 6: romioxf ($191 in chips)
+pkmikhail: posts small blind $1
+Dimastiy X: posts big blind $2
+*** HOLE CARDS ***
+romioxf: folds
+Reikka89: raises $3.88 to $5.88
+46onion46: folds
+pkmikhail: folds
+Dimastiy X: raises $14.12 to $20
+Reikka89: calls $14.12
+*** FLOP *** [Qc 7h 2d]
+Dimastiy X: bets $21.42
+Reikka89: folds
+Uncalled bet ($21.42) returned to Dimastiy X
+Dimastiy X collected $38.95 from pot
+Dimastiy X: doesn't show hand
+*** SUMMARY ***
+Total pot $41 | Rake $2.05
+Board [Qc 7h 2d]
+Seat 1: Reikka89 folded on the Flop
+Seat 2: 46onion46 (button) folded before Flop (didn't bet)
+Seat 4: pkmikhail (small blind) folded before Flop
+Seat 5: Dimastiy X (big blind) collected ($38.95)
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181947562725:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:19:20 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($203.83 in chips)
+Seat 2: 46onion46 ($99.79 in chips)
+Seat 4: pkmikhail ($207.10 in chips)
+Seat 5: Dimastiy X ($218.95 in chips)
+Seat 6: romioxf ($191 in chips)
+Dimastiy X: posts small blind $1
+romioxf: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: folds
+46onion46: folds
+RASTAPEpower joins the table at seat #3
+pkmikhail: folds
+Dimastiy X: folds
+Uncalled bet ($1) returned to romioxf
+romioxf collected $2 from pot
+romioxf: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 folded before Flop (didn't bet)
+Seat 4: pkmikhail (button) folded before Flop (didn't bet)
+Seat 5: Dimastiy X (small blind) folded before Flop
+Seat 6: romioxf (big blind) collected ($2)
+
+
+PokerStars Hand #181947573984:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:19:38 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($203.83 in chips)
+Seat 2: 46onion46 ($99.79 in chips)
+Seat 4: pkmikhail ($207.10 in chips)
+Seat 5: Dimastiy X ($217.95 in chips)
+Seat 6: romioxf ($192 in chips)
+romioxf: posts small blind $1
+Reikka89: posts big blind $2
+RASTAPEpower: sits out
+*** HOLE CARDS ***
+46onion46: folds
+pkmikhail: raises $2.70 to $4.70
+Dimastiy X: raises $11.30 to $16
+romioxf: folds
+Reikka89: folds
+pkmikhail: calls $11.30
+*** FLOP *** [Ks Ts 8s]
+pkmikhail: checks
+Dimastiy X: bets $10.97
+pkmikhail: calls $10.97
+*** TURN *** [Ks Ts 8s] [Qd]
+pkmikhail: checks
+Dimastiy X: bets $42
+pkmikhail: folds
+Uncalled bet ($42) returned to Dimastiy X
+Dimastiy X collected $54.19 from pot
+Dimastiy X: doesn't show hand
+*** SUMMARY ***
+Total pot $56.94 | Rake $2.75
+Board [Ks Ts 8s Qd]
+Seat 1: Reikka89 (big blind) folded before Flop
+Seat 2: 46onion46 folded before Flop (didn't bet)
+Seat 4: pkmikhail folded on the Turn
+Seat 5: Dimastiy X (button) collected ($54.19)
+Seat 6: romioxf (small blind) folded before Flop
+
+
+PokerStars Hand #181947625692:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:21:00 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: Reikka89 ($201.83 in chips)
+Seat 2: 46onion46 ($99.79 in chips)
+Seat 4: pkmikhail ($200 in chips)
+Seat 5: Dimastiy X ($245.17 in chips)
+Seat 6: romioxf ($191 in chips)
+Reikka89: posts small blind $1
+46onion46: posts big blind $2
+RASTAPEpower: sits out
+*** HOLE CARDS ***
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: folds
+Reikka89: folds
+Uncalled bet ($1) returned to 46onion46
+46onion46 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Reikka89 (small blind) folded before Flop
+Seat 2: 46onion46 (big blind) collected ($2)
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181947638534:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:21:21 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($200.83 in chips)
+Seat 2: 46onion46 ($100.79 in chips)
+Seat 3: RASTAPEpower ($80 in chips)
+Seat 4: pkmikhail ($200 in chips)
+Seat 5: Dimastiy X ($245.17 in chips)
+Seat 6: romioxf ($191 in chips)
+46onion46: posts small blind $1
+RASTAPEpower: posts big blind $2
+*** HOLE CARDS ***
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: raises $4 to $6
+Reikka89: folds
+46onion46: calls $5
+RASTAPEpower: folds
+*** FLOP *** [Jd 9d 2c]
+46onion46: bets $10
+romioxf: calls $10
+*** TURN *** [Jd 9d 2c] [6s]
+46onion46: bets $20
+romioxf: folds
+Uncalled bet ($20) returned to 46onion46
+46onion46 collected $32.30 from pot
+*** SUMMARY ***
+Total pot $34 | Rake $1.70
+Board [Jd 9d 2c 6s]
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 2: 46onion46 (small blind) collected ($32.30)
+Seat 3: RASTAPEpower (big blind) folded before Flop
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf folded on the Turn
+
+
+PokerStars Hand #181947698447:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:22:54 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: Reikka89 ($208.97 in chips)
+Seat 2: 46onion46 ($111.21 in chips)
+Seat 3: RASTAPEpower ($77 in chips)
+Seat 4: pkmikhail ($200 in chips)
+Seat 5: Dimastiy X ($245.17 in chips)
+Seat 6: romioxf ($175 in chips)
+pkmikhail: posts small blind $1
+Dimastiy X: posts big blind $2
+*** HOLE CARDS ***
+romioxf: folds
+Reikka89: raises $3.88 to $5.88
+46onion46: folds
+RASTAPEpower: folds
+pkmikhail: folds
+Dimastiy X: folds
+Uncalled bet ($3.88) returned to Reikka89
+Reikka89 collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 collected ($5)
+Seat 2: 46onion46 folded before Flop (didn't bet)
+Seat 3: RASTAPEpower (button) folded before Flop (didn't bet)
+Seat 4: pkmikhail (small blind) folded before Flop
+Seat 5: Dimastiy X (big blind) folded before Flop
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181947673510:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:22:15 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($200.83 in chips)
+Seat 2: 46onion46 ($117.09 in chips)
+Seat 3: RASTAPEpower ($78 in chips)
+Seat 4: pkmikhail ($200 in chips)
+Seat 5: Dimastiy X ($245.17 in chips)
+Seat 6: romioxf ($175 in chips)
+RASTAPEpower: posts small blind $1
+pkmikhail: posts big blind $2
+*** HOLE CARDS ***
+Dimastiy X: folds
+romioxf: folds
+Reikka89: raises $3.88 to $5.88
+46onion46: calls $5.88
+RASTAPEpower: folds
+pkmikhail: folds
+*** FLOP *** [9h Jh Ad]
+Reikka89: bets $6.73
+46onion46: folds
+Uncalled bet ($6.73) returned to Reikka89
+Reikka89 collected $14.02 from pot
+*** SUMMARY ***
+Total pot $14.76 | Rake $0.74
+Board [9h Jh Ad]
+Seat 1: Reikka89 collected ($14.02)
+Seat 2: 46onion46 (button) folded on the Flop
+Seat 3: RASTAPEpower (small blind) folded before Flop
+Seat 4: pkmikhail (big blind) folded before Flop
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181947716482:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:23:23 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($206.09 in chips)
+Seat 2: 46onion46 ($120.09 in chips)
+Seat 3: RASTAPEpower ($77 in chips)
+Seat 4: pkmikhail ($200 in chips)
+Seat 5: Dimastiy X ($242.17 in chips)
+Seat 6: romioxf ($173 in chips)
+romioxf: posts small blind $1
+Reikka89: posts big blind $2
+*** HOLE CARDS ***
+46onion46: folds
+RASTAPEpower: folds
+pkmikhail: folds
+Dimastiy X: raises $3 to $5
+romioxf: raises $14 to $19
+Reikka89: folds
+Dimastiy X: raises $23 to $42
+romioxf: raises $131 to $173 and is all-in
+Dimastiy X: calls $131
+*** FLOP *** [2h Jc Ts]
+*** TURN *** [2h Jc Ts] [7s]
+*** RIVER *** [2h Jc Ts 7s] [5s]
+*** SHOW DOWN ***
+romioxf: shows [Kc Kd] (a pair of Kings)
+Dimastiy X: shows [Jh Jd] (three of a kind, Jacks)
+Dimastiy X collected $345.25 from pot
+*** SUMMARY ***
+Total pot $348 | Rake $2.75
+Board [2h Jc Ts 7s 5s]
+Seat 1: Reikka89 (big blind) folded before Flop
+Seat 2: 46onion46 folded before Flop (didn't bet)
+Seat 3: RASTAPEpower folded before Flop (didn't bet)
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X (button) showed [Jh Jd] and won ($345.25) with three of a kind, Jacks
+Seat 6: romioxf (small blind) showed [Kc Kd] and lost with a pair of Kings
+
+
+PokerStars Hand #181947745799:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:24:09 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($204.09 in chips)
+Seat 2: 46onion46 ($120.09 in chips)
+Seat 3: RASTAPEpower ($77 in chips)
+Seat 4: pkmikhail ($200 in chips)
+Seat 5: Dimastiy X ($414.42 in chips)
+46onion46: posts small blind $1
+RASTAPEpower: posts big blind $2
+*** HOLE CARDS ***
+pkmikhail: folds
+Dimastiy X: folds
+Reikka89: folds
+46onion46: raises $4 to $6
+RASTAPEpower: calls $4
+*** FLOP *** [5d 2s 2c]
+46onion46: bets $6
+RASTAPEpower: calls $6
+*** TURN *** [5d 2s 2c] [Ks]
+46onion46: checks
+RASTAPEpower: bets $11
+46onion46: folds
+Uncalled bet ($11) returned to RASTAPEpower
+RASTAPEpower collected $22.80 from pot
+RASTAPEpower: doesn't show hand
+*** SUMMARY ***
+Total pot $24 | Rake $1.20
+Board [5d 2s 2c Ks]
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 2: 46onion46 (small blind) folded on the Turn
+Seat 3: RASTAPEpower (big blind) collected ($22.80)
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+
+
+PokerStars Hand #181947780519:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:25:03 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($204.09 in chips)
+Seat 2: 46onion46 ($108.09 in chips)
+Seat 3: RASTAPEpower ($87.80 in chips)
+Seat 4: pkmikhail ($200 in chips)
+Seat 5: Dimastiy X ($414.42 in chips)
+Seat 6: romioxf ($200 in chips)
+RASTAPEpower: posts small blind $1
+pkmikhail: posts big blind $2
+*** HOLE CARDS ***
+Dimastiy X: folds
+romioxf: folds
+Reikka89: folds
+46onion46: folds
+RASTAPEpower: calls $1
+pkmikhail: checks
+*** FLOP *** [Ac 4c Ts]
+RASTAPEpower: bets $2
+pkmikhail: calls $2
+*** TURN *** [Ac 4c Ts] [Tc]
+RASTAPEpower: checks
+pkmikhail: bets $5
+RASTAPEpower: folds
+Uncalled bet ($5) returned to pkmikhail
+pkmikhail collected $7.60 from pot
+pkmikhail: doesn't show hand
+*** SUMMARY ***
+Total pot $8 | Rake $0.40
+Board [Ac 4c Ts Tc]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 (button) folded before Flop (didn't bet)
+Seat 3: RASTAPEpower (small blind) folded on the Turn
+Seat 4: pkmikhail (big blind) collected ($7.60)
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181947879365:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:27:38 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($204.09 in chips)
+Seat 2: 46onion46 ($108.09 in chips)
+Seat 3: RASTAPEpower ($190.85 in chips)
+Seat 4: pkmikhail ($202.60 in chips)
+Seat 5: Dimastiy X ($389.42 in chips)
+Seat 6: romioxf ($116.20 in chips)
+Dimastiy X: posts small blind $1
+romioxf: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: folds
+46onion46: raises $4 to $6
+RASTAPEpower: folds
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: calls $4
+*** FLOP *** [Js 4s 9d]
+romioxf: checks
+46onion46: bets $6
+romioxf: raises $24.35 to $30.35
+46onion46: folds
+Uncalled bet ($24.35) returned to romioxf
+romioxf collected $23.75 from pot
+romioxf: doesn't show hand
+*** SUMMARY ***
+Total pot $25 | Rake $1.25
+Board [Js 4s 9d]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 folded on the Flop
+Seat 3: RASTAPEpower folded before Flop (didn't bet)
+Seat 4: pkmikhail (button) folded before Flop (didn't bet)
+Seat 5: Dimastiy X (small blind) folded before Flop
+Seat 6: romioxf (big blind) collected ($23.75)
+
+
+PokerStars Hand #181947841222:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:26:38 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: Reikka89 ($204.09 in chips)
+Seat 2: 46onion46 ($108.09 in chips)
+Seat 3: RASTAPEpower ($83.80 in chips)
+Seat 4: pkmikhail ($203.60 in chips)
+Seat 5: Dimastiy X ($414.42 in chips)
+Seat 6: romioxf ($200 in chips)
+pkmikhail: posts small blind $1
+Dimastiy X: posts big blind $2
+*** HOLE CARDS ***
+romioxf: raises $4 to $6
+Reikka89: folds
+46onion46: folds
+RASTAPEpower: calls $6
+pkmikhail: folds
+Dimastiy X: raises $19 to $25
+romioxf: calls $19
+RASTAPEpower: raises $58.80 to $83.80 and is all-in
+Dimastiy X: folds
+romioxf: calls $58.80
+*** FLOP *** [8c Qd 3d]
+*** TURN *** [8c Qd 3d] [Ad]
+*** RIVER *** [8c Qd 3d Ad] [As]
+*** SHOW DOWN ***
+romioxf: shows [Js Qs] (two pair, Aces and Queens)
+RASTAPEpower: shows [Ks Kd] (two pair, Aces and Kings)
+RASTAPEpower collected $190.85 from pot
+*** SUMMARY ***
+Total pot $193.60 | Rake $2.75
+Board [8c Qd 3d Ad As]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 folded before Flop (didn't bet)
+Seat 3: RASTAPEpower (button) showed [Ks Kd] and won ($190.85) with two pair, Aces and Kings
+Seat 4: pkmikhail (small blind) folded before Flop
+Seat 5: Dimastiy X (big blind) folded before Flop
+Seat 6: romioxf showed [Js Qs] and lost with two pair, Aces and Queens
+
+
+PokerStars Hand #181947932307:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:29:00 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: Reikka89 ($200 in chips)
+Seat 2: 46onion46 ($96.09 in chips)
+Seat 3: RASTAPEpower ($190.85 in chips)
+Seat 4: pkmikhail ($202.60 in chips)
+Seat 5: Dimastiy X ($388.42 in chips)
+Seat 6: romioxf ($132.45 in chips)
+Reikka89: posts small blind $1
+46onion46: posts big blind $2
+*** HOLE CARDS ***
+RASTAPEpower: raises $4 to $6
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: folds
+Reikka89: folds
+46onion46: folds
+Uncalled bet ($4) returned to RASTAPEpower
+RASTAPEpower collected $5 from pot
+RASTAPEpower: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 (small blind) folded before Flop
+Seat 2: 46onion46 (big blind) folded before Flop
+Seat 3: RASTAPEpower collected ($5)
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181947903055:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:28:15 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($204.09 in chips)
+Seat 2: 46onion46 ($96.09 in chips)
+Seat 3: RASTAPEpower ($190.85 in chips)
+Seat 4: pkmikhail ($202.60 in chips)
+Seat 5: Dimastiy X ($388.42 in chips)
+Seat 6: romioxf ($127.95 in chips)
+romioxf: posts small blind $1
+Reikka89: posts big blind $2
+*** HOLE CARDS ***
+46onion46: folds
+RASTAPEpower: folds
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: raises $3 to $5
+Reikka89: calls $3
+*** FLOP *** [Qh 3h Kd]
+romioxf: checks
+Reikka89: checks
+*** TURN *** [Qh 3h Kd] [2s]
+romioxf: bets $5.38
+Reikka89: folds
+Uncalled bet ($5.38) returned to romioxf
+romioxf collected $9.50 from pot
+romioxf: doesn't show hand
+*** SUMMARY ***
+Total pot $10 | Rake $0.50
+Board [Qh 3h Kd 2s]
+Seat 1: Reikka89 (big blind) folded on the Turn
+Seat 2: 46onion46 folded before Flop (didn't bet)
+Seat 3: RASTAPEpower folded before Flop (didn't bet)
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X (button) folded before Flop (didn't bet)
+Seat 6: romioxf (small blind) collected ($9.50)
+
+
+PokerStars Hand #181948007764:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:30:56 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($200 in chips)
+Seat 2: 46onion46 ($117.36 in chips)
+Seat 3: RASTAPEpower ($191.85 in chips)
+Seat 4: pkmikhail ($202.60 in chips)
+Seat 5: Dimastiy X ($388.42 in chips)
+Seat 6: romioxf ($108.71 in chips)
+RASTAPEpower: posts small blind $1
+pkmikhail: posts big blind $2
+*** HOLE CARDS ***
+Dimastiy X: folds
+romioxf: folds
+Reikka89: folds
+46onion46: folds
+RASTAPEpower: folds
+Uncalled bet ($1) returned to pkmikhail
+pkmikhail collected $2 from pot
+pkmikhail: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 (button) folded before Flop (didn't bet)
+Seat 3: RASTAPEpower (small blind) folded before Flop
+Seat 4: pkmikhail (big blind) collected ($2)
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181947940972:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:29:14 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($200 in chips)
+Seat 2: 46onion46 ($94.09 in chips)
+Seat 3: RASTAPEpower ($193.85 in chips)
+Seat 4: pkmikhail ($202.60 in chips)
+Seat 5: Dimastiy X ($388.42 in chips)
+Seat 6: romioxf ($132.45 in chips)
+46onion46: posts small blind $1
+RASTAPEpower: posts big blind $2
+*** HOLE CARDS ***
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: raises $4 to $6
+Reikka89: folds
+46onion46: calls $5
+RASTAPEpower: folds
+*** FLOP *** [3c 2s 5c]
+46onion46: checks
+romioxf: bets $8.87
+46onion46: raises $8.87 to $17.74
+romioxf: calls $8.87
+*** TURN *** [3c 2s 5c] [7c]
+46onion46: bets $14
+romioxf: folds
+Uncalled bet ($14) returned to 46onion46
+46onion46 collected $47.01 from pot
+*** SUMMARY ***
+Total pot $49.48 | Rake $2.47
+Board [3c 2s 5c 7c]
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 2: 46onion46 (small blind) collected ($47.01)
+Seat 3: RASTAPEpower (big blind) folded before Flop
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf folded on the Turn
+
+
+PokerStars Hand #181948023262:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:31:20 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: Reikka89 ($200 in chips)
+Seat 2: 46onion46 ($117.36 in chips)
+Seat 3: RASTAPEpower ($190.85 in chips)
+Seat 4: pkmikhail ($203.60 in chips)
+Seat 5: Dimastiy X ($388.42 in chips)
+Seat 6: romioxf ($108.71 in chips)
+pkmikhail: posts small blind $1
+Dimastiy X: posts big blind $2
+*** HOLE CARDS ***
+romioxf: raises $4 to $6
+Reikka89: folds
+46onion46: calls $6
+RASTAPEpower: folds
+pkmikhail: folds
+Dimastiy X: folds
+*** FLOP *** [Ac 4c Qd]
+romioxf: checks
+46onion46: bets $8
+romioxf: calls $8
+*** TURN *** [Ac 4c Qd] [8d]
+romioxf: checks
+46onion46: bets $14
+romioxf: raises $80.71 to $94.71 and is all-in
+46onion46: folds
+Uncalled bet ($80.71) returned to romioxf
+romioxf collected $56.25 from pot
+romioxf: doesn't show hand
+*** SUMMARY ***
+Total pot $59 | Rake $2.75
+Board [Ac 4c Qd 8d]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 folded on the Turn
+Seat 3: RASTAPEpower (button) folded before Flop (didn't bet)
+Seat 4: pkmikhail (small blind) folded before Flop
+Seat 5: Dimastiy X (big blind) folded before Flop
+Seat 6: romioxf collected ($56.25)
+
+
+PokerStars Hand #181948087986:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:32:47 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($200 in chips)
+Seat 2: 46onion46 ($89.36 in chips)
+Seat 3: RASTAPEpower ($193.85 in chips)
+Seat 4: pkmikhail ($202.60 in chips)
+Seat 5: Dimastiy X ($385.42 in chips)
+Seat 6: romioxf ($134.96 in chips)
+romioxf: posts small blind $1
+Reikka89: posts big blind $2
+*** HOLE CARDS ***
+46onion46: folds
+RASTAPEpower: folds
+pkmikhail: folds
+Dimastiy X: raises $3 to $5
+romioxf: folds
+Reikka89: folds
+Uncalled bet ($3) returned to Dimastiy X
+Dimastiy X collected $5 from pot
+Dimastiy X: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 (big blind) folded before Flop
+Seat 2: 46onion46 folded before Flop (didn't bet)
+Seat 3: RASTAPEpower folded before Flop (didn't bet)
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X (button) collected ($5)
+Seat 6: romioxf (small blind) folded before Flop
+
+
+PokerStars Hand #181948072935:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:32:23 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($200 in chips)
+Seat 2: 46onion46 ($89.36 in chips)
+Seat 3: RASTAPEpower ($190.85 in chips)
+Seat 4: pkmikhail ($202.60 in chips)
+Seat 5: Dimastiy X ($386.42 in chips)
+Seat 6: romioxf ($136.96 in chips)
+Dimastiy X: posts small blind $1
+romioxf: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: folds
+46onion46: folds
+RASTAPEpower: raises $4 to $6
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: folds
+Uncalled bet ($4) returned to RASTAPEpower
+RASTAPEpower collected $5 from pot
+RASTAPEpower: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 folded before Flop (didn't bet)
+Seat 3: RASTAPEpower collected ($5)
+Seat 4: pkmikhail (button) folded before Flop (didn't bet)
+Seat 5: Dimastiy X (small blind) folded before Flop
+Seat 6: romioxf (big blind) folded before Flop
+
+
+PokerStars Hand #181948138918:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:34:05 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($200 in chips)
+Seat 2: 46onion46 ($111.24 in chips)
+Seat 3: RASTAPEpower ($199.61 in chips)
+Seat 4: pkmikhail ($202.60 in chips)
+Seat 5: Dimastiy X ($388.42 in chips)
+Seat 6: romioxf ($133.96 in chips)
+RASTAPEpower: posts small blind $1
+pkmikhail: posts big blind $2
+*** HOLE CARDS ***
+Dimastiy X: folds
+romioxf: folds
+Reikka89: folds
+46onion46: folds
+RASTAPEpower: folds
+Uncalled bet ($1) returned to pkmikhail
+pkmikhail collected $2 from pot
+pkmikhail: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 (button) folded before Flop (didn't bet)
+Seat 3: RASTAPEpower (small blind) folded before Flop
+Seat 4: pkmikhail (big blind) collected ($2)
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181948119823:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:33:36 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($200 in chips)
+Seat 2: 46onion46 ($117.12 in chips)
+Seat 3: RASTAPEpower ($187.85 in chips)
+Seat 4: pkmikhail ($202.60 in chips)
+Seat 5: Dimastiy X ($388.42 in chips)
+Seat 6: romioxf ($133.96 in chips)
+46onion46: posts small blind $1
+RASTAPEpower: posts big blind $2
+*** HOLE CARDS ***
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: folds
+Reikka89: raises $3.88 to $5.88
+46onion46: calls $4.88
+RASTAPEpower: raises $18.12 to $24
+Reikka89: folds
+46onion46: folds
+Uncalled bet ($18.12) returned to RASTAPEpower
+RASTAPEpower collected $17.64 from pot
+RASTAPEpower: doesn't show hand
+*** SUMMARY ***
+Total pot $17.64 | Rake $0
+Seat 1: Reikka89 (button) folded before Flop
+Seat 2: 46onion46 (small blind) folded before Flop
+Seat 3: RASTAPEpower (big blind) collected ($17.64)
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181948099655:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:33:05 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: Reikka89 ($200 in chips)
+Seat 2: 46onion46 ($89.36 in chips)
+Seat 3: RASTAPEpower ($193.85 in chips)
+Seat 4: pkmikhail ($202.60 in chips)
+Seat 5: Dimastiy X ($388.42 in chips)
+Seat 6: romioxf ($133.96 in chips)
+Reikka89: posts small blind $1
+46onion46: posts big blind $2
+*** HOLE CARDS ***
+RASTAPEpower: raises $4 to $6
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: folds
+Reikka89: raises $15.76 to $21.76
+46onion46: raises $67.60 to $89.36 and is all-in
+RASTAPEpower: folds
+Reikka89: folds
+Uncalled bet ($67.60) returned to 46onion46
+46onion46 collected $49.52 from pot
+*** SUMMARY ***
+Total pot $49.52 | Rake $0
+Seat 1: Reikka89 (small blind) folded before Flop
+Seat 2: 46onion46 (big blind) collected ($49.52)
+Seat 3: RASTAPEpower folded before Flop
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181948216190:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:36:03 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($200 in chips)
+Seat 2: 46onion46 ($96.24 in chips)
+Seat 3: RASTAPEpower ($217.66 in chips)
+Seat 4: pkmikhail ($202.60 in chips)
+Seat 5: Dimastiy X ($385.42 in chips)
+Seat 6: romioxf ($131.96 in chips)
+romioxf: posts small blind $1
+Reikka89: posts big blind $2
+*** HOLE CARDS ***
+46onion46: folds
+RASTAPEpower: folds
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: folds
+Uncalled bet ($1) returned to Reikka89
+Reikka89 collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Reikka89 (big blind) collected ($2)
+Seat 2: 46onion46 folded before Flop (didn't bet)
+Seat 3: RASTAPEpower folded before Flop (didn't bet)
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X (button) folded before Flop (didn't bet)
+Seat 6: romioxf (small blind) folded before Flop
+
+
+PokerStars Hand #181948205041:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:35:46 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($200 in chips)
+Seat 2: 46onion46 ($93.24 in chips)
+Seat 3: RASTAPEpower ($217.66 in chips)
+Seat 4: pkmikhail ($202.60 in chips)
+Seat 5: Dimastiy X ($386.42 in chips)
+Seat 6: romioxf ($133.96 in chips)
+Dimastiy X: posts small blind $1
+romioxf: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: folds
+46onion46: raises $4 to $6
+RASTAPEpower: folds
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: folds
+Uncalled bet ($4) returned to 46onion46
+46onion46 collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 collected ($5)
+Seat 3: RASTAPEpower folded before Flop (didn't bet)
+Seat 4: pkmikhail (button) folded before Flop (didn't bet)
+Seat 5: Dimastiy X (small blind) folded before Flop
+Seat 6: romioxf (big blind) folded before Flop
+
+
+PokerStars Hand #181948150608:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:34:23 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: Reikka89 ($200 in chips)
+Seat 2: 46onion46 ($111.24 in chips)
+Seat 3: RASTAPEpower ($198.61 in chips)
+Seat 4: pkmikhail ($203.60 in chips)
+Seat 5: Dimastiy X ($388.42 in chips)
+Seat 6: romioxf ($133.96 in chips)
+pkmikhail: posts small blind $1
+Dimastiy X: posts big blind $2
+*** HOLE CARDS ***
+romioxf: folds
+Reikka89: folds
+46onion46: raises $4 to $6
+RASTAPEpower: raises $12 to $18
+pkmikhail: folds
+Dimastiy X: folds
+46onion46: calls $12
+*** FLOP *** [Tc Td 4c]
+46onion46: checks
+RASTAPEpower: bets $11
+46onion46: folds
+Uncalled bet ($11) returned to RASTAPEpower
+RASTAPEpower collected $37.05 from pot
+RASTAPEpower: doesn't show hand
+*** SUMMARY ***
+Total pot $39 | Rake $1.95
+Board [Tc Td 4c]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 folded on the Flop
+Seat 3: RASTAPEpower (button) collected ($37.05)
+Seat 4: pkmikhail (small blind) folded before Flop
+Seat 5: Dimastiy X (big blind) folded before Flop
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181948257174:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:37:06 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($213.02 in chips)
+Seat 2: 46onion46 ($82.88 in chips)
+Seat 4: pkmikhail ($202.60 in chips)
+Seat 5: Dimastiy X ($385.42 in chips)
+Seat 6: romioxf ($130.96 in chips)
+46onion46: posts small blind $1
+RASTAPEpower: is sitting out
+pkmikhail: posts big blind $2
+*** HOLE CARDS ***
+Dimastiy X: raises $3 to $5
+RASTAPEpower leaves the table
+romioxf: folds
+Reikka89: raises $12.32 to $17.32
+46onion46: folds
+pkmikhail: folds
+Dimastiy X: folds
+Uncalled bet ($12.32) returned to Reikka89
+Reikka89 collected $13 from pot
+*** SUMMARY ***
+Total pot $13 | Rake $0
+Seat 1: Reikka89 (button) collected ($13)
+Seat 2: 46onion46 (small blind) folded before Flop
+Seat 4: pkmikhail (big blind) folded before Flop
+Seat 5: Dimastiy X folded before Flop
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181948233263:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:36:30 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: Reikka89 ($201 in chips)
+Seat 2: 46onion46 ($96.24 in chips)
+Seat 3: RASTAPEpower ($217.66 in chips)
+Seat 4: pkmikhail ($202.60 in chips)
+Seat 5: Dimastiy X ($385.42 in chips)
+Seat 6: romioxf ($130.96 in chips)
+Reikka89: posts small blind $1
+46onion46: posts big blind $2
+*** HOLE CARDS ***
+RASTAPEpower: folds
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: folds
+Reikka89: raises $3.88 to $5.88
+46onion46: calls $3.88
+*** FLOP *** [2s 8s Ah]
+Reikka89: bets $7.48
+46onion46: calls $7.48
+*** TURN *** [2s 8s Ah] [Js]
+Reikka89: bets $17
+46onion46: folds
+Uncalled bet ($17) returned to Reikka89
+Reikka89 collected $25.38 from pot
+*** SUMMARY ***
+Total pot $26.72 | Rake $1.34
+Board [2s 8s Ah Js]
+Seat 1: Reikka89 (small blind) collected ($25.38)
+Seat 2: 46onion46 (big blind) folded on the Turn
+Seat 3: RASTAPEpower folded before Flop (didn't bet)
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181948296824:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:38:07 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($221.02 in chips)
+Seat 2: 46onion46 ($88.23 in chips)
+Seat 4: pkmikhail ($200 in chips)
+Seat 5: Dimastiy X ($368.42 in chips)
+Seat 6: romioxf ($136.96 in chips)
+romioxf: posts small blind $1
+Reikka89: posts big blind $2
+MAKAPRUN: sits out
+*** HOLE CARDS ***
+46onion46: raises $4 to $6
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: folds
+Reikka89: folds
+Uncalled bet ($4) returned to 46onion46
+46onion46 collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 (big blind) folded before Flop
+Seat 2: 46onion46 collected ($5)
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X (button) folded before Flop (didn't bet)
+Seat 6: romioxf (small blind) folded before Flop
+
+
+PokerStars Hand #181948271220:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:37:28 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($221.02 in chips)
+Seat 2: 46onion46 ($81.88 in chips)
+Seat 4: pkmikhail ($200.60 in chips)
+Seat 5: Dimastiy X ($380.42 in chips)
+Seat 6: romioxf ($130.96 in chips)
+pkmikhail: posts small blind $1
+Dimastiy X: posts big blind $2
+*** HOLE CARDS ***
+romioxf: folds
+Reikka89: folds
+46onion46: raises $4 to $6
+pkmikhail: folds
+MAKAPRUN joins the table at seat #3
+Dimastiy X: calls $4
+*** FLOP *** [Jh Kh 6d]
+Dimastiy X: checks
+46onion46: bets $12
+Dimastiy X: folds
+Uncalled bet ($12) returned to 46onion46
+46onion46 collected $12.35 from pot
+*** SUMMARY ***
+Total pot $13 | Rake $0.65
+Board [Jh Kh 6d]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 (button) collected ($12.35)
+Seat 4: pkmikhail (small blind) folded before Flop
+Seat 5: Dimastiy X (big blind) folded on the Flop
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181948285383:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:37:50 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($221.02 in chips)
+Seat 2: 46onion46 ($88.23 in chips)
+Seat 4: pkmikhail ($200 in chips)
+Seat 5: Dimastiy X ($374.42 in chips)
+Seat 6: romioxf ($130.96 in chips)
+Dimastiy X: posts small blind $1
+romioxf: posts big blind $2
+MAKAPRUN: sits out
+*** HOLE CARDS ***
+Reikka89: folds
+46onion46: folds
+pkmikhail: folds
+Dimastiy X: raises $4 to $6
+romioxf: raises $12 to $18
+Dimastiy X: folds
+Uncalled bet ($12) returned to romioxf
+romioxf collected $12 from pot
+romioxf: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 folded before Flop (didn't bet)
+Seat 4: pkmikhail (button) folded before Flop (didn't bet)
+Seat 5: Dimastiy X (small blind) folded before Flop
+Seat 6: romioxf (big blind) collected ($12)
+
+
+PokerStars Hand #181948309128:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:38:26 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: Reikka89 ($219.02 in chips)
+Seat 2: 46onion46 ($91.23 in chips)
+Seat 4: pkmikhail ($200 in chips)
+Seat 5: Dimastiy X ($368.42 in chips)
+Seat 6: romioxf ($135.96 in chips)
+Reikka89: posts small blind $1
+46onion46: posts big blind $2
+MAKAPRUN: sits out
+*** HOLE CARDS ***
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: raises $4 to $6
+Reikka89: folds
+46onion46: calls $4
+*** FLOP *** [Js 7s Td]
+46onion46: checks
+romioxf: checks
+*** TURN *** [Js 7s Td] [5s]
+46onion46: checks
+romioxf: bets $8.23
+46onion46: folds
+Uncalled bet ($8.23) returned to romioxf
+romioxf collected $12.35 from pot
+romioxf: doesn't show hand
+*** SUMMARY ***
+Total pot $13 | Rake $0.65
+Board [Js 7s Td 5s]
+Seat 1: Reikka89 (small blind) folded before Flop
+Seat 2: 46onion46 (big blind) folded on the Turn
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf (button) collected ($12.35)
+
+
+PokerStars Hand #181948323892:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:38:49 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($218.02 in chips)
+Seat 2: 46onion46 ($85.23 in chips)
+Seat 3: MAKAPRUN ($200 in chips)
+Seat 4: pkmikhail ($200 in chips)
+Seat 5: Dimastiy X ($368.42 in chips)
+Seat 6: romioxf ($142.31 in chips)
+46onion46: posts small blind $1
+MAKAPRUN: posts big blind $2
+*** HOLE CARDS ***
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: raises $4 to $6
+Reikka89: folds
+46onion46: calls $5
+MAKAPRUN: raises $20 to $26
+romioxf: folds
+46onion46: calls $20
+*** FLOP *** [2s Ah 2h]
+46onion46: checks
+MAKAPRUN: checks
+*** TURN *** [2s Ah 2h] [7h]
+46onion46: checks
+MAKAPRUN: bets $61
+46onion46: folds
+Uncalled bet ($61) returned to MAKAPRUN
+MAKAPRUN collected $55.25 from pot
+MAKAPRUN: doesn't show hand
+*** SUMMARY ***
+Total pot $58 | Rake $2.75
+Board [2s Ah 2h 7h]
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 2: 46onion46 (small blind) folded on the Turn
+Seat 3: MAKAPRUN (big blind) collected ($55.25)
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf folded before Flop
+
+
+PokerStars Hand #181948368969:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:39:57 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($218.02 in chips)
+Seat 2: 46onion46 ($59.23 in chips)
+Seat 3: MAKAPRUN ($229.25 in chips)
+Seat 4: pkmikhail ($200 in chips)
+Seat 5: Dimastiy X ($368.42 in chips)
+Seat 6: romioxf ($136.31 in chips)
+MAKAPRUN: posts small blind $1
+pkmikhail: posts big blind $2
+*** HOLE CARDS ***
+Dimastiy X: folds
+romioxf: folds
+Reikka89: folds
+46onion46: raises $4 to $6
+MAKAPRUN: folds
+pkmikhail: folds
+Uncalled bet ($4) returned to 46onion46
+46onion46 collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 (button) collected ($5)
+Seat 3: MAKAPRUN (small blind) folded before Flop
+Seat 4: pkmikhail (big blind) folded before Flop
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181948383913:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:40:20 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: Reikka89 ($218.02 in chips)
+Seat 2: 46onion46 ($62.23 in chips)
+Seat 3: MAKAPRUN ($228.25 in chips)
+Seat 4: pkmikhail ($200 in chips)
+Seat 5: Dimastiy X ($368.42 in chips)
+Seat 6: romioxf ($136.31 in chips)
+pkmikhail: posts small blind $1
+Dimastiy X: posts big blind $2
+*** HOLE CARDS ***
+romioxf: folds
+Reikka89: folds
+46onion46: raises $4 to $6
+MAKAPRUN: folds
+pkmikhail: folds
+Dimastiy X: calls $4
+*** FLOP *** [6s Kh Kd]
+Dimastiy X: checks
+46onion46: bets $10
+Dimastiy X: calls $10
+*** TURN *** [6s Kh Kd] [As]
+Dimastiy X: checks
+46onion46: checks
+*** RIVER *** [6s Kh Kd As] [8s]
+Dimastiy X: checks
+46onion46: checks
+*** SHOW DOWN ***
+Dimastiy X: shows [9h 9s] (two pair, Kings and Nines)
+46onion46: mucks hand
+Dimastiy X collected $31.35 from pot
+*** SUMMARY ***
+Total pot $33 | Rake $1.65
+Board [6s Kh Kd As 8s]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 mucked
+Seat 3: MAKAPRUN (button) folded before Flop (didn't bet)
+Seat 4: pkmikhail (small blind) folded before Flop
+Seat 5: Dimastiy X (big blind) showed [9h 9s] and won ($31.35) with two pair, Kings and Nines
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181948419748:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:41:15 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($218.02 in chips)
+Seat 2: 46onion46 ($46.23 in chips)
+Seat 3: MAKAPRUN ($228.25 in chips)
+Seat 4: pkmikhail ($200 in chips)
+Seat 5: Dimastiy X ($383.77 in chips)
+Seat 6: romioxf ($136.31 in chips)
+Dimastiy X: posts small blind $1
+romioxf: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: folds
+46onion46: folds
+MAKAPRUN: raises $3.24 to $5.24
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: calls $3.24
+*** FLOP *** [8d Qd 3s]
+romioxf: checks
+MAKAPRUN: bets $3.60
+romioxf: raises $12.07 to $15.67
+MAKAPRUN: calls $12.07
+*** TURN *** [8d Qd 3s] [3h]
+romioxf: checks
+MAKAPRUN: bets $14.50
+romioxf: calls $14.50
+*** RIVER *** [8d Qd 3s 3h] [9c]
+romioxf: checks
+MAKAPRUN: checks
+*** SHOW DOWN ***
+romioxf: shows [Qh 6h] (two pair, Queens and Threes)
+MAKAPRUN: shows [Qs Kh] (two pair, Queens and Threes - King kicker)
+MAKAPRUN collected $69.07 from pot
+*** SUMMARY ***
+Total pot $71.82 | Rake $2.75
+Board [8d Qd 3s 3h 9c]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 folded before Flop (didn't bet)
+Seat 3: MAKAPRUN showed [Qs Kh] and won ($69.07) with two pair, Queens and Threes
+Seat 4: pkmikhail (button) folded before Flop (didn't bet)
+Seat 5: Dimastiy X (small blind) folded before Flop
+Seat 6: romioxf (big blind) showed [Qh 6h] and lost with two pair, Queens and Threes
+
+
+PokerStars Hand #181948470746:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:42:33 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($218.02 in chips)
+Seat 2: 46onion46 ($46.23 in chips)
+Seat 3: MAKAPRUN ($261.91 in chips)
+Seat 4: pkmikhail ($200 in chips)
+Seat 5: Dimastiy X ($382.77 in chips)
+Seat 6: romioxf ($100.90 in chips)
+romioxf: posts small blind $1
+Reikka89: posts big blind $2
+*** HOLE CARDS ***
+46onion46: folds
+MAKAPRUN: folds
+pkmikhail: raises $2.70 to $4.70
+Dimastiy X: folds
+romioxf: folds
+Reikka89: folds
+Uncalled bet ($2.70) returned to pkmikhail
+pkmikhail collected $5 from pot
+pkmikhail: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 (big blind) folded before Flop
+Seat 2: 46onion46 folded before Flop (didn't bet)
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: pkmikhail collected ($5)
+Seat 5: Dimastiy X (button) folded before Flop (didn't bet)
+Seat 6: romioxf (small blind) folded before Flop
+
+
+PokerStars Hand #181948485605:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:42:55 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: Reikka89 ($216.02 in chips)
+Seat 2: 46onion46 ($46.23 in chips)
+Seat 3: MAKAPRUN ($261.91 in chips)
+Seat 4: pkmikhail ($203 in chips)
+Seat 5: Dimastiy X ($382.77 in chips)
+Seat 6: romioxf ($99.90 in chips)
+Reikka89: posts small blind $1
+46onion46: posts big blind $2
+*** HOLE CARDS ***
+MAKAPRUN: raises $3 to $5
+pkmikhail: folds
+Dimastiy X: folds
+romioxf: folds
+Reikka89: folds
+46onion46: calls $3
+*** FLOP *** [3h Qd Td]
+46onion46: checks
+MAKAPRUN: checks
+*** TURN *** [3h Qd Td] [Qc]
+46onion46: checks
+MAKAPRUN: bets $7
+46onion46: raises $34.23 to $41.23 and is all-in
+MAKAPRUN: folds
+Uncalled bet ($34.23) returned to 46onion46
+46onion46 collected $23.75 from pot
+*** SUMMARY ***
+Total pot $25 | Rake $1.25
+Board [3h Qd Td Qc]
+Seat 1: Reikka89 (small blind) folded before Flop
+Seat 2: 46onion46 (big blind) collected ($23.75)
+Seat 3: MAKAPRUN folded on the Turn
+Seat 4: pkmikhail folded before Flop (didn't bet)
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181948534019:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:44:08 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($215.02 in chips)
+Seat 2: 46onion46 ($57.98 in chips)
+Seat 3: MAKAPRUN ($249.91 in chips)
+Seat 4: pkmikhail ($203 in chips)
+Seat 5: Dimastiy X ($382.77 in chips)
+Seat 6: romioxf ($200 in chips)
+46onion46: posts small blind $1
+MAKAPRUN: posts big blind $2
+*** HOLE CARDS ***
+pkmikhail: raises $2.70 to $4.70
+Dimastiy X: folds
+romioxf: folds
+Reikka89: folds
+46onion46: calls $3.70
+MAKAPRUN: folds
+*** FLOP *** [Ad 7s 3s]
+46onion46: checks
+pkmikhail: checks
+*** TURN *** [Ad 7s 3s] [Ts]
+46onion46: bets $8
+pkmikhail: calls $8
+*** RIVER *** [Ad 7s 3s Ts] [6d]
+46onion46: checks
+pkmikhail: checks
+*** SHOW DOWN ***
+46onion46: shows [4h 6s] (a pair of Sixes)
+pkmikhail: shows [8s 8c] (a pair of Eights)
+pkmikhail collected $26.03 from pot
+*** SUMMARY ***
+Total pot $27.40 | Rake $1.37
+Board [Ad 7s 3s Ts 6d]
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 2: 46onion46 (small blind) showed [4h 6s] and lost with a pair of Sixes
+Seat 3: MAKAPRUN (big blind) folded before Flop
+Seat 4: pkmikhail showed [8s 8c] and won ($26.03) with a pair of Eights
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181948568333:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:45:01 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($215.02 in chips)
+Seat 2: 46onion46 ($45.28 in chips)
+Seat 3: MAKAPRUN ($247.91 in chips)
+Seat 5: Dimastiy X ($382.77 in chips)
+Seat 6: romioxf ($200 in chips)
+MAKAPRUN: posts small blind $1
+pkmikhail: is sitting out
+Dimastiy X: posts big blind $2
+*** HOLE CARDS ***
+pkmikhail leaves the table
+romioxf: raises $4 to $6
+Reikka89: folds
+torkkdnm joins the table at seat #4
+46onion46: raises $39.28 to $45.28 and is all-in
+MAKAPRUN: folds
+Dimastiy X: folds
+romioxf: calls $39.28
+*** FLOP *** [Ts Qd 5s]
+*** TURN *** [Ts Qd 5s] [6d]
+*** RIVER *** [Ts Qd 5s 6d] [Tc]
+*** SHOW DOWN ***
+romioxf: shows [Jc Kd] (a pair of Tens)
+46onion46: shows [8d 5d] (two pair, Tens and Fives)
+46onion46 collected $90.81 from pot
+*** SUMMARY ***
+Total pot $93.56 | Rake $2.75
+Board [Ts Qd 5s 6d Tc]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 (button) showed [8d 5d] and won ($90.81) with two pair, Tens and Fives
+Seat 3: MAKAPRUN (small blind) folded before Flop
+Seat 5: Dimastiy X (big blind) folded before Flop
+Seat 6: romioxf showed [Jc Kd] and lost with a pair of Tens
+
+
+PokerStars Hand #181948596074:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:45:42 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: Reikka89 ($215.02 in chips)
+Seat 2: 46onion46 ($90.81 in chips)
+Seat 3: MAKAPRUN ($246.91 in chips)
+Seat 5: Dimastiy X ($380.77 in chips)
+Seat 6: romioxf ($154.72 in chips)
+torkkdnm will be allowed to play after the button
+Dimastiy X: posts small blind $1
+romioxf: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: folds
+46onion46: raises $4 to $6
+MAKAPRUN: folds
+Dimastiy X: folds
+romioxf: calls $4
+*** FLOP *** [Qh Kc 4h]
+romioxf: checks
+46onion46: checks
+*** TURN *** [Qh Kc 4h] [6c]
+romioxf: bets $8.23
+46onion46: calls $8.23
+*** RIVER *** [Qh Kc 4h 6c] [Ac]
+romioxf: checks
+46onion46: checks
+*** SHOW DOWN ***
+romioxf: shows [9c 8c] (a flush, Ace high)
+46onion46: mucks hand
+romioxf collected $27.99 from pot
+*** SUMMARY ***
+Total pot $29.46 | Rake $1.47
+Board [Qh Kc 4h 6c Ac]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 mucked
+Seat 3: MAKAPRUN (button) folded before Flop (didn't bet)
+Seat 5: Dimastiy X (small blind) folded before Flop
+Seat 6: romioxf (big blind) showed [9c 8c] and won ($27.99) with a flush, Ace high
+
+
+PokerStars Hand #181948617056:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:46:14 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($215.02 in chips)
+Seat 2: 46onion46 ($76.58 in chips)
+Seat 3: MAKAPRUN ($246.91 in chips)
+Seat 5: Dimastiy X ($379.77 in chips)
+Seat 6: romioxf ($168.48 in chips)
+romioxf: posts small blind $1
+Reikka89: posts big blind $2
+torkkdnm: sits out
+*** HOLE CARDS ***
+46onion46: raises $4 to $6
+MAKAPRUN: folds
+Dimastiy X: folds
+romioxf: folds
+Reikka89: calls $4
+*** FLOP *** [2d 2c 3s]
+Reikka89: checks
+46onion46: checks
+*** TURN *** [2d 2c 3s] [Ks]
+Reikka89: checks
+46onion46: checks
+*** RIVER *** [2d 2c 3s Ks] [Ah]
+Reikka89: checks
+46onion46: bets $2
+Reikka89: folds
+Uncalled bet ($2) returned to 46onion46
+46onion46 collected $12.35 from pot
+*** SUMMARY ***
+Total pot $13 | Rake $0.65
+Board [2d 2c 3s Ks Ah]
+Seat 1: Reikka89 (big blind) folded on the River
+Seat 2: 46onion46 collected ($12.35)
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 5: Dimastiy X (button) folded before Flop (didn't bet)
+Seat 6: romioxf (small blind) folded before Flop
+
+
+PokerStars Hand #181948642319:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:46:52 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: Reikka89 ($209.02 in chips)
+Seat 2: 46onion46 ($82.93 in chips)
+Seat 3: MAKAPRUN ($246.91 in chips)
+Seat 5: Dimastiy X ($379.77 in chips)
+Seat 6: romioxf ($167.48 in chips)
+Reikka89: posts small blind $1
+46onion46: posts big blind $2
+torkkdnm: sits out
+*** HOLE CARDS ***
+MAKAPRUN: folds
+Dimastiy X: raises $3 to $5
+romioxf: folds
+Reikka89: folds
+46onion46: calls $3
+*** FLOP *** [3d 2c Jc]
+46onion46: bets $8
+Dimastiy X: calls $8
+*** TURN *** [3d 2c Jc] [4c]
+46onion46: checks
+Dimastiy X: bets $19.24
+46onion46: calls $19.24
+*** RIVER *** [3d 2c Jc 4c] [Ks]
+46onion46: checks
+Dimastiy X: bets $69.63
+46onion46: calls $50.69 and is all-in
+Uncalled bet ($18.94) returned to Dimastiy X
+*** SHOW DOWN ***
+Dimastiy X: shows [Jh Jd] (three of a kind, Jacks)
+46onion46: shows [6s 5s] (a straight, Deuce to Six)
+46onion46 collected $164.11 from pot
+*** SUMMARY ***
+Total pot $166.86 | Rake $2.75
+Board [3d 2c Jc 4c Ks]
+Seat 1: Reikka89 (small blind) folded before Flop
+Seat 2: 46onion46 (big blind) showed [6s 5s] and won ($164.11) with a straight, Deuce to Six
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 5: Dimastiy X showed [Jh Jd] and lost with three of a kind, Jacks
+Seat 6: romioxf (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181948672896:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:47:39 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($208.02 in chips)
+Seat 2: 46onion46 ($164.11 in chips)
+Seat 3: MAKAPRUN ($246.91 in chips)
+Seat 5: Dimastiy X ($296.84 in chips)
+Seat 6: romioxf ($167.48 in chips)
+46onion46: posts small blind $1
+MAKAPRUN: posts big blind $2
+torkkdnm: sits out
+*** HOLE CARDS ***
+Dimastiy X: folds
+romioxf: raises $4 to $6
+Reikka89: folds
+46onion46: folds
+MAKAPRUN: folds
+Uncalled bet ($4) returned to romioxf
+romioxf collected $5 from pot
+romioxf: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 2: 46onion46 (small blind) folded before Flop
+Seat 3: MAKAPRUN (big blind) folded before Flop
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf collected ($5)
+
+
+PokerStars Hand #181948683098:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:47:54 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($208.02 in chips)
+Seat 2: 46onion46 ($163.11 in chips)
+Seat 3: MAKAPRUN ($244.91 in chips)
+Seat 4: torkkdnm ($200 in chips)
+Seat 5: Dimastiy X ($296.84 in chips)
+Seat 6: romioxf ($170.48 in chips)
+MAKAPRUN: posts small blind $1
+torkkdnm: posts big blind $2
+*** HOLE CARDS ***
+Dimastiy X: folds
+romioxf: folds
+Reikka89: folds
+46onion46: folds
+MAKAPRUN: folds
+Uncalled bet ($1) returned to torkkdnm
+torkkdnm collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 (button) folded before Flop (didn't bet)
+Seat 3: MAKAPRUN (small blind) folded before Flop
+Seat 4: torkkdnm (big blind) collected ($2)
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181948692857:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:48:09 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: Reikka89 ($208.02 in chips)
+Seat 2: 46onion46 ($163.11 in chips)
+Seat 3: MAKAPRUN ($243.91 in chips)
+Seat 4: torkkdnm ($201 in chips)
+Seat 5: Dimastiy X ($296.84 in chips)
+Seat 6: romioxf ($170.48 in chips)
+torkkdnm: posts small blind $1
+Dimastiy X: posts big blind $2
+*** HOLE CARDS ***
+romioxf: raises $4 to $6
+Reikka89: folds
+46onion46: raises $8 to $14
+MAKAPRUN: folds
+torkkdnm: folds
+Dimastiy X: folds
+romioxf: raises $21.27 to $35.27
+46onion46: calls $21.27
+*** FLOP *** [Ah Tc 6s]
+romioxf: bets $23.36
+46onion46: folds
+Uncalled bet ($23.36) returned to romioxf
+romioxf collected $70.79 from pot
+romioxf: doesn't show hand
+*** SUMMARY ***
+Total pot $73.54 | Rake $2.75
+Board [Ah Tc 6s]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 folded on the Flop
+Seat 3: MAKAPRUN (button) folded before Flop (didn't bet)
+Seat 4: torkkdnm (small blind) folded before Flop
+Seat 5: Dimastiy X (big blind) folded before Flop
+Seat 6: romioxf collected ($70.79)
+
+
+PokerStars Hand #181948770451:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:50:06 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($208.02 in chips)
+Seat 3: MAKAPRUN ($243.91 in chips)
+Seat 4: torkkdnm ($200 in chips)
+Seat 5: Dimastiy X ($293.84 in chips)
+Seat 6: romioxf ($332.09 in chips)
+romioxf: posts small blind $1
+Reikka89: posts big blind $2
+*** HOLE CARDS ***
+MAKAPRUN: folds
+torkkdnm: raises $4 to $6
+Dimastiy X: folds
+romioxf: folds
+Reikka89: calls $4
+*** FLOP *** [4c 6c 4d]
+Reikka89: checks
+torkkdnm: checks
+*** TURN *** [4c 6c 4d] [9d]
+Reikka89: checks
+46onion46 leaves the table
+torkkdnm: checks
+*** RIVER *** [4c 6c 4d 9d] [5s]
+Reikka89: checks
+BronKKAA joins the table at seat #2
+torkkdnm: checks
+*** SHOW DOWN ***
+Reikka89: shows [3c 3d] (two pair, Fours and Threes)
+torkkdnm: mucks hand
+Reikka89 collected $12.35 from pot
+*** SUMMARY ***
+Total pot $13 | Rake $0.65
+Board [4c 6c 4d 9d 5s]
+Seat 1: Reikka89 (big blind) showed [3c 3d] and won ($12.35) with two pair, Fours and Threes
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: torkkdnm mucked
+Seat 5: Dimastiy X (button) folded before Flop (didn't bet)
+Seat 6: romioxf (small blind) folded before Flop
+
+
+PokerStars Hand #181948722651:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:48:54 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($208.02 in chips)
+Seat 2: 46onion46 ($127.84 in chips)
+Seat 3: MAKAPRUN ($243.91 in chips)
+Seat 4: torkkdnm ($200 in chips)
+Seat 5: Dimastiy X ($294.84 in chips)
+Seat 6: romioxf ($206 in chips)
+Dimastiy X: posts small blind $1
+romioxf: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: folds
+46onion46: raises $4 to $6
+MAKAPRUN: folds
+torkkdnm: folds
+Dimastiy X: folds
+romioxf: raises $14 to $20
+46onion46: calls $14
+*** FLOP *** [Kd Ts Jc]
+romioxf: bets $27.70
+46onion46: raises $80.14 to $107.84 and is all-in
+romioxf: calls $80.14
+*** TURN *** [Kd Ts Jc] [Td]
+*** RIVER *** [Kd Ts Jc Td] [2h]
+*** SHOW DOWN ***
+romioxf: shows [Ah Ac] (two pair, Aces and Tens)
+46onion46: shows [Qd Qs] (two pair, Queens and Tens)
+romioxf collected $253.93 from pot
+*** SUMMARY ***
+Total pot $256.68 | Rake $2.75
+Board [Kd Ts Jc Td 2h]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: 46onion46 showed [Qd Qs] and lost with two pair, Queens and Tens
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: torkkdnm (button) folded before Flop (didn't bet)
+Seat 5: Dimastiy X (small blind) folded before Flop
+Seat 6: romioxf (big blind) showed [Ah Ac] and won ($253.93) with two pair, Aces and Tens
+
+
+PokerStars Hand #181948836458:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:51:45 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($213.37 in chips)
+Seat 4: torkkdnm ($200 in chips)
+Seat 6: romioxf ($334.09 in chips)
+torkkdnm: posts small blind $1
+Dimastiy X: is sitting out
+Dimastiy X leaves the table
+romioxf: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: folds
+torkkdnm: folds
+Uncalled bet ($1) returned to romioxf
+romioxf collected $2 from pot
+romioxf: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 4: torkkdnm (small blind) folded before Flop
+Seat 6: romioxf (big blind) collected ($2)
+
+
+PokerStars Hand #181948823143:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:51:26 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: Reikka89 ($214.37 in chips)
+Seat 4: torkkdnm ($200 in chips)
+Seat 5: Dimastiy X ($293.84 in chips)
+Seat 6: romioxf ($331.09 in chips)
+Reikka89: posts small blind $1
+MAKAPRUN: is sitting out
+torkkdnm: posts big blind $2
+*** HOLE CARDS ***
+Dimastiy X: folds
+romioxf: raises $4 to $6
+Reikka89: folds
+MAKAPRUN leaves the table
+torkkdnm: folds
+Uncalled bet ($4) returned to romioxf
+romioxf collected $5 from pot
+romioxf: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 (small blind) folded before Flop
+Seat 4: torkkdnm (big blind) folded before Flop
+Seat 5: Dimastiy X folded before Flop (didn't bet)
+Seat 6: romioxf (button) collected ($5)
+
+
+PokerStars Hand #181948855088:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:52:13 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($213.37 in chips)
+Seat 4: torkkdnm ($200 in chips)
+Seat 6: romioxf ($335.09 in chips)
+romioxf: posts small blind $1
+Reikka89: posts big blind $2
+*** HOLE CARDS ***
+torkkdnm: raises $3 to $5
+romioxf: raises $14 to $19
+Reikka89: folds
+torkkdnm: calls $14
+*** FLOP *** [Qs 7s 3h]
+romioxf: bets $25.83
+torkkdnm: calls $25.83
+*** TURN *** [Qs 7s 3h] [Qh]
+romioxf: bets $29.84
+torkkdnm: raises $125.33 to $155.17 and is all-in
+romioxf: folds
+Uncalled bet ($125.33) returned to torkkdnm
+torkkdnm collected $150.09 from pot
+*** SUMMARY ***
+Total pot $151.34 | Rake $1.25
+Board [Qs 7s 3h Qh]
+Seat 1: Reikka89 (big blind) folded before Flop
+Seat 4: torkkdnm (button) collected ($150.09)
+Seat 6: romioxf (small blind) folded on the Turn
+
+
+PokerStars Hand #181948927871:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:54:03 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($210.37 in chips)
+Seat 4: torkkdnm ($273.42 in chips)
+Seat 6: romioxf ($263.42 in chips)
+torkkdnm: posts small blind $1
+romioxf: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: folds
+torkkdnm: folds
+Uncalled bet ($1) returned to romioxf
+romioxf collected $2 from pot
+romioxf: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 4: torkkdnm (small blind) folded before Flop
+Seat 6: romioxf (big blind) collected ($2)
+
+
+PokerStars Hand #181948909151:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:53:35 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: Reikka89 ($211.37 in chips)
+Seat 4: torkkdnm ($275.42 in chips)
+Seat 6: romioxf ($260.42 in chips)
+Reikka89: posts small blind $1
+torkkdnm: posts big blind $2
+*** HOLE CARDS ***
+romioxf: raises $4 to $6
+Reikka89: folds
+torkkdnm: folds
+Uncalled bet ($4) returned to romioxf
+romioxf collected $5 from pot
+romioxf: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 (small blind) folded before Flop
+Seat 4: torkkdnm (big blind) folded before Flop
+Seat 6: romioxf (button) collected ($5)
+
+
+PokerStars Hand #181948935425:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:54:15 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($210.37 in chips)
+Seat 4: torkkdnm ($272.42 in chips)
+Seat 6: romioxf ($264.42 in chips)
+romioxf: posts small blind $1
+Reikka89: posts big blind $2
+*** HOLE CARDS ***
+torkkdnm has timed out
+torkkdnm: folds
+romioxf: raises $4 to $6
+Reikka89: calls $4
+*** FLOP *** [Qs Js Qh]
+romioxf: checks
+Reikka89: bets $5.47
+romioxf: raises $14.89 to $20.36
+Reikka89: folds
+Uncalled bet ($14.89) returned to romioxf
+romioxf collected $21.79 from pot
+romioxf: doesn't show hand
+*** SUMMARY ***
+Total pot $22.94 | Rake $1.15
+Board [Qs Js Qh]
+Seat 1: Reikka89 (big blind) folded on the Flop
+Seat 4: torkkdnm (button) folded before Flop (didn't bet)
+Seat 6: romioxf (small blind) collected ($21.79)
+
+
+PokerStars Hand #181949038047:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:57:08 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: Reikka89 ($248.69 in chips)
+Seat 2: eliekh ($118.27 in chips)
+Seat 6: romioxf ($236.68 in chips)
+Reikka89: posts small blind $1
+eliekh: posts big blind $2
+MAKAPRUN: sits out
+steelNike: sits out
+smolski15: sits out
+*** HOLE CARDS ***
+romioxf: raises $4 to $6
+Reikka89: folds
+eliekh: folds
+Uncalled bet ($4) returned to romioxf
+romioxf collected $5 from pot
+romioxf: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 (small blind) folded before Flop
+Seat 2: eliekh (big blind) folded before Flop
+Seat 6: romioxf (button) collected ($5)
+
+
+PokerStars Hand #181949103752:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:59:03 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: Reikka89 ($247.69 in chips)
+Seat 2: eliekh ($115.65 in chips)
+Seat 3: MAKAPRUN ($242.28 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($200 in chips)
+Seat 6: romioxf ($242.68 in chips)
+steelNike: posts small blind $1
+smolski15: posts big blind $2
+*** HOLE CARDS ***
+romioxf: folds
+Reikka89: folds
+eliekh: folds
+MAKAPRUN: raises $3.24 to $5.24
+steelNike: folds
+smolski15: folds
+Uncalled bet ($3.24) returned to MAKAPRUN
+MAKAPRUN collected $5 from pot
+MAKAPRUN: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: eliekh folded before Flop (didn't bet)
+Seat 3: MAKAPRUN (button) collected ($5)
+Seat 4: steelNike (small blind) folded before Flop
+Seat 5: smolski15 (big blind) folded before Flop
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181949097519:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:58:52 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($247.69 in chips)
+Seat 2: eliekh ($115.65 in chips)
+Seat 3: MAKAPRUN ($243.28 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 6: romioxf ($239.68 in chips)
+MAKAPRUN: posts small blind $1
+steelNike: posts big blind $2
+smolski15: sits out
+*** HOLE CARDS ***
+romioxf: raises $4 to $6
+Reikka89: folds
+eliekh: folds
+MAKAPRUN: folds
+steelNike: folds
+Uncalled bet ($4) returned to romioxf
+romioxf collected $5 from pot
+romioxf: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: eliekh (button) folded before Flop (didn't bet)
+Seat 3: MAKAPRUN (small blind) folded before Flop
+Seat 4: steelNike (big blind) folded before Flop
+Seat 6: romioxf collected ($5)
+
+
+PokerStars Hand #181949047612:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:57:25 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($247.69 in chips)
+Seat 2: eliekh ($116.27 in chips)
+Seat 3: MAKAPRUN ($243.91 in chips)
+Seat 6: romioxf ($239.68 in chips)
+eliekh: posts small blind $1
+MAKAPRUN: posts big blind $2
+steelNike: sits out
+smolski15: sits out
+*** HOLE CARDS ***
+romioxf: folds
+Reikka89: folds
+eliekh: calls $1
+MAKAPRUN: raises $6 to $8
+eliekh: calls $6
+*** FLOP *** [5c 6c 6h]
+eliekh: checks
+MAKAPRUN: checks
+*** TURN *** [5c 6c 6h] [Qc]
+eliekh: bets $12
+MAKAPRUN: calls $12
+*** RIVER *** [5c 6c 6h Qc] [Ad]
+eliekh: bets $12
+MAKAPRUN: calls $12
+*** SHOW DOWN ***
+eliekh: shows [2s Qs] (two pair, Queens and Sixes)
+MAKAPRUN: shows [Jd Qd] (two pair, Queens and Sixes)
+eliekh collected $31.38 from pot
+MAKAPRUN collected $31.37 from pot
+*** SUMMARY ***
+Total pot $64 | Rake $1.25
+Board [5c 6c 6h Qc Ad]
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 2: eliekh (small blind) showed [2s Qs] and won ($31.38) with two pair, Queens and Sixes
+Seat 3: MAKAPRUN (big blind) showed [Jd Qd] and won ($31.37) with two pair, Queens and Sixes
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181949113156:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 8:59:20 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($247.69 in chips)
+Seat 2: eliekh ($115.65 in chips)
+Seat 3: MAKAPRUN ($245.28 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($200 in chips)
+Seat 6: romioxf ($242.68 in chips)
+smolski15: posts small blind $1
+romioxf: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: raises $3.88 to $5.88
+eliekh: calls $5.88
+MAKAPRUN: folds
+steelNike: folds
+smolski15: raises $20.12 to $26
+romioxf: folds
+Reikka89: folds
+eliekh: calls $20.12
+*** FLOP *** [3d 4c 9s]
+smolski15: bets $29.71
+eliekh: folds
+Uncalled bet ($29.71) returned to smolski15
+smolski15 collected $57.13 from pot
+smolski15: doesn't show hand
+*** SUMMARY ***
+Total pot $59.88 | Rake $2.75
+Board [3d 4c 9s]
+Seat 1: Reikka89 folded before Flop
+Seat 2: eliekh folded on the Flop
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: steelNike (button) folded before Flop (didn't bet)
+Seat 5: smolski15 (small blind) collected ($57.13)
+Seat 6: romioxf (big blind) folded before Flop
+
+
+PokerStars Hand #181949172701:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:00:58 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: Reikka89 ($237.81 in chips)
+Seat 2: eliekh ($103.40 in chips)
+Seat 3: MAKAPRUN ($245.28 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($221.13 in chips)
+Seat 6: romioxf ($239.68 in chips)
+Reikka89: posts small blind $1
+eliekh: posts big blind $2
+*** HOLE CARDS ***
+MAKAPRUN: folds
+steelNike: folds
+smolski15: folds
+romioxf: raises $4 to $6
+Reikka89: folds
+eliekh: raises $14 to $20
+romioxf: folds
+Uncalled bet ($14) returned to eliekh
+eliekh collected $13 from pot
+eliekh: doesn't show hand
+*** SUMMARY ***
+Total pot $13 | Rake $0
+Seat 1: Reikka89 (small blind) folded before Flop
+Seat 2: eliekh (big blind) collected ($13)
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 folded before Flop (didn't bet)
+Seat 6: romioxf (button) folded before Flop
+
+
+PokerStars Hand #181949140600:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:00:04 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($241.81 in chips)
+Seat 2: eliekh ($89.65 in chips)
+Seat 3: MAKAPRUN ($245.28 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($231.13 in chips)
+Seat 6: romioxf ($240.68 in chips)
+romioxf: posts small blind $1
+Reikka89: posts big blind $2
+*** HOLE CARDS ***
+eliekh: raises $2 to $4
+MAKAPRUN: folds
+steelNike: folds
+smolski15: calls $4
+romioxf: folds
+Reikka89: calls $2
+*** FLOP *** [4s Tc Kd]
+Reikka89: checks
+eliekh: bets $6
+smolski15: calls $6
+Reikka89: folds
+*** TURN *** [4s Tc Kd] [6c]
+eliekh: bets $6
+smolski15: folds
+Uncalled bet ($6) returned to eliekh
+eliekh collected $23.75 from pot
+eliekh: doesn't show hand
+*** SUMMARY ***
+Total pot $25 | Rake $1.25
+Board [4s Tc Kd 6c]
+Seat 1: Reikka89 (big blind) folded on the Flop
+Seat 2: eliekh collected ($23.75)
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 (button) folded on the Turn
+Seat 6: romioxf (small blind) folded before Flop
+
+
+PokerStars Hand #181949186434:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:01:19 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($236.81 in chips)
+Seat 2: eliekh ($110.40 in chips)
+Seat 3: MAKAPRUN ($245.28 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($221.13 in chips)
+Seat 6: romioxf ($233.68 in chips)
+eliekh: posts small blind $1
+MAKAPRUN: posts big blind $2
+*** HOLE CARDS ***
+steelNike: folds
+smolski15: folds
+romioxf: raises $4 to $6
+Reikka89: folds
+eliekh: folds
+MAKAPRUN: calls $4
+*** FLOP *** [7s Ac 7c]
+MAKAPRUN: checks
+romioxf: bets $8.23
+MAKAPRUN: folds
+Uncalled bet ($8.23) returned to romioxf
+romioxf collected $12.35 from pot
+romioxf: doesn't show hand
+*** SUMMARY ***
+Total pot $13 | Rake $0.65
+Board [7s Ac 7c]
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 2: eliekh (small blind) folded before Flop
+Seat 3: MAKAPRUN (big blind) folded on the Flop
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 folded before Flop (didn't bet)
+Seat 6: romioxf collected ($12.35)
+
+
+PokerStars Hand #181949253994:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:02:56 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: Reikka89 ($264.33 in chips)
+Seat 2: eliekh ($82.13 in chips)
+Seat 3: MAKAPRUN ($238.28 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($221.13 in chips)
+Seat 6: romioxf ($240.03 in chips)
+steelNike: posts small blind $1
+smolski15: posts big blind $2
+*** HOLE CARDS ***
+romioxf: folds
+Reikka89: raises $3.88 to $5.88
+eliekh: folds
+MAKAPRUN: folds
+steelNike: folds
+smolski15: folds
+Uncalled bet ($3.88) returned to Reikka89
+Reikka89 collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 collected ($5)
+Seat 2: eliekh folded before Flop (didn't bet)
+Seat 3: MAKAPRUN (button) folded before Flop (didn't bet)
+Seat 4: steelNike (small blind) folded before Flop
+Seat 5: smolski15 (big blind) folded before Flop
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181949218205:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:02:05 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($236.81 in chips)
+Seat 2: eliekh ($109.40 in chips)
+Seat 3: MAKAPRUN ($239.28 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($221.13 in chips)
+Seat 6: romioxf ($240.03 in chips)
+MAKAPRUN: posts small blind $1
+steelNike: posts big blind $2
+*** HOLE CARDS ***
+smolski15: folds
+romioxf: folds
+Reikka89: raises $3.88 to $5.88
+eliekh: calls $5.88
+MAKAPRUN: folds
+steelNike: folds
+*** FLOP *** [9s Qs 9h]
+Reikka89: bets $9.39
+eliekh: calls $9.39
+*** TURN *** [9s Qs 9h] [2s]
+Reikka89: checks
+eliekh: bets $12
+Reikka89: raises $14 to $26
+eliekh: folds
+Uncalled bet ($14) returned to Reikka89
+Reikka89 collected $54.79 from pot
+*** SUMMARY ***
+Total pot $57.54 | Rake $2.75
+Board [9s Qs 9h 2s]
+Seat 1: Reikka89 collected ($54.79)
+Seat 2: eliekh (button) folded on the Turn
+Seat 3: MAKAPRUN (small blind) folded before Flop
+Seat 4: steelNike (big blind) folded before Flop
+Seat 5: smolski15 folded before Flop (didn't bet)
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181949267868:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:03:15 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($267.33 in chips)
+Seat 2: eliekh ($82.13 in chips)
+Seat 3: MAKAPRUN ($238.28 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($219.13 in chips)
+Seat 6: romioxf ($240.03 in chips)
+smolski15: posts small blind $1
+romioxf: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: folds
+eliekh: folds
+MAKAPRUN: folds
+steelNike: raises $2.56 to $4.56
+smolski15: folds
+romioxf: calls $2.56
+*** FLOP *** [3h Jh 5s]
+romioxf: checks
+steelNike: bets $4.81
+romioxf: calls $4.81
+*** TURN *** [3h Jh 5s] [8h]
+romioxf: checks
+steelNike: bets $13.13
+romioxf: calls $13.13
+*** RIVER *** [3h Jh 5s 8h] [2h]
+romioxf: checks
+steelNike: checks
+*** SHOW DOWN ***
+romioxf: shows [Qh Js] (a flush, Queen high)
+steelNike: mucks hand
+romioxf collected $43.70 from pot
+*** SUMMARY ***
+Total pot $46 | Rake $2.30
+Board [3h Jh 5s 8h 2h]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: eliekh folded before Flop (didn't bet)
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: steelNike (button) mucked
+Seat 5: smolski15 (small blind) folded before Flop
+Seat 6: romioxf (big blind) showed [Qh Js] and won ($43.70) with a flush, Queen high
+
+
+PokerStars Hand #181949375450:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:05:46 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: Reikka89 ($236.37 in chips)
+Seat 2: eliekh ($82.13 in chips)
+Seat 3: MAKAPRUN ($238.28 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($251.34 in chips)
+Seat 6: romioxf ($256.23 in chips)
+Reikka89: posts small blind $1
+eliekh: posts big blind $2
+*** HOLE CARDS ***
+MAKAPRUN: raises $3 to $5
+steelNike: folds
+smolski15: folds
+romioxf: raises $13 to $18
+Reikka89: raises $30 to $48
+eliekh: folds
+MAKAPRUN: folds
+romioxf: folds
+Uncalled bet ($30) returned to Reikka89
+Reikka89 collected $43 from pot
+*** SUMMARY ***
+Total pot $43 | Rake $0
+Seat 1: Reikka89 (small blind) collected ($43)
+Seat 2: eliekh (big blind) folded before Flop
+Seat 3: MAKAPRUN folded before Flop
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 folded before Flop (didn't bet)
+Seat 6: romioxf (button) folded before Flop
+
+
+PokerStars Hand #181949322168:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:04:31 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($267.33 in chips)
+Seat 2: eliekh ($82.13 in chips)
+Seat 3: MAKAPRUN ($238.28 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($218.13 in chips)
+Seat 6: romioxf ($261.23 in chips)
+romioxf: posts small blind $1
+Reikka89: posts big blind $2
+*** HOLE CARDS ***
+eliekh: folds
+MAKAPRUN: folds
+steelNike: folds
+smolski15: raises $3 to $5
+romioxf: calls $4
+Reikka89: calls $3
+*** FLOP *** [Qs Kd 5c]
+romioxf: checks
+Reikka89: checks
+smolski15: bets $10
+romioxf: folds
+Reikka89: calls $10
+*** TURN *** [Qs Kd 5c] [Qc]
+Reikka89: checks
+smolski15: checks
+*** RIVER *** [Qs Kd 5c Qc] [Kh]
+Reikka89: bets $15.96
+smolski15: raises $43.01 to $58.97
+Reikka89: folds
+Uncalled bet ($43.01) returned to smolski15
+smolski15 collected $64.17 from pot
+smolski15: doesn't show hand
+*** SUMMARY ***
+Total pot $66.92 | Rake $2.75
+Board [Qs Kd 5c Qc Kh]
+Seat 1: Reikka89 (big blind) folded on the River
+Seat 2: eliekh folded before Flop (didn't bet)
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 (button) collected ($64.17)
+Seat 6: romioxf (small blind) folded on the Flop
+
+
+PokerStars Hand #181949400683:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:06:21 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($261.37 in chips)
+Seat 2: eliekh ($80.13 in chips)
+Seat 3: MAKAPRUN ($233.28 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($251.34 in chips)
+Seat 6: romioxf ($238.23 in chips)
+eliekh: posts small blind $1
+MAKAPRUN: posts big blind $2
+*** HOLE CARDS ***
+steelNike: folds
+smolski15: raises $3 to $5
+romioxf: folds
+Reikka89: folds
+eliekh: folds
+MAKAPRUN: folds
+Uncalled bet ($3) returned to smolski15
+smolski15 collected $5 from pot
+smolski15: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 2: eliekh (small blind) folded before Flop
+Seat 3: MAKAPRUN (big blind) folded before Flop
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 collected ($5)
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181949502189:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:08:43 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: Reikka89 ($261.37 in chips)
+Seat 2: eliekh ($66.13 in chips)
+Seat 3: MAKAPRUN ($230.28 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($268.89 in chips)
+Seat 6: romioxf ($238.23 in chips)
+steelNike: posts small blind $1
+smolski15: posts big blind $2
+*** HOLE CARDS ***
+romioxf: folds
+Reikka89: folds
+eliekh: calls $2
+MAKAPRUN: folds
+steelNike: calls $1
+smolski15: raises $8 to $10
+eliekh: calls $8
+steelNike: folds
+*** FLOP *** [Kh 8h Qc]
+smolski15: bets $15
+eliekh: folds
+Uncalled bet ($15) returned to smolski15
+smolski15 collected $20.90 from pot
+smolski15: doesn't show hand
+*** SUMMARY ***
+Total pot $22 | Rake $1.10
+Board [Kh 8h Qc]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: eliekh folded on the Flop
+Seat 3: MAKAPRUN (button) folded before Flop (didn't bet)
+Seat 4: steelNike (small blind) folded before Flop
+Seat 5: smolski15 (big blind) collected ($20.90)
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181949523855:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:09:14 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($261.37 in chips)
+Seat 2: eliekh ($56.13 in chips)
+Seat 3: MAKAPRUN ($230.28 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($279.79 in chips)
+smolski15: posts small blind $1
+romioxf: is sitting out
+Reikka89: posts big blind $2
+*** HOLE CARDS ***
+eliekh: raises $8 to $10
+romioxf leaves the table
+MAKAPRUN: folds
+steelNike: folds
+smolski15: folds
+Reikka89: folds
+Uncalled bet ($8) returned to eliekh
+eliekh collected $5 from pot
+eliekh: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 (big blind) folded before Flop
+Seat 2: eliekh collected ($5)
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: steelNike (button) folded before Flop (didn't bet)
+Seat 5: smolski15 (small blind) folded before Flop
+
+
+PokerStars Hand #181949420821:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:06:49 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($261.37 in chips)
+Seat 2: eliekh ($79.13 in chips)
+Seat 3: MAKAPRUN ($231.28 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($254.34 in chips)
+Seat 6: romioxf ($238.23 in chips)
+MAKAPRUN: posts small blind $1
+steelNike: posts big blind $2
+*** HOLE CARDS ***
+smolski15: raises $3 to $5
+romioxf: folds
+Reikka89 has timed out
+Reikka89: folds
+eliekh: calls $5
+MAKAPRUN: folds
+steelNike: folds
+*** FLOP *** [6s 2d 8c]
+smolski15: checks
+eliekh: checks
+*** TURN *** [6s 2d 8c] [8h]
+smolski15: checks
+eliekh: checks
+*** RIVER *** [6s 2d 8c 8h] [4h]
+smolski15: checks
+eliekh: bets $8
+smolski15: calls $8
+*** SHOW DOWN ***
+eliekh: shows [9h Js] (a pair of Eights)
+smolski15: shows [As Ks] (a pair of Eights - Ace kicker)
+smolski15 collected $27.55 from pot
+*** SUMMARY ***
+Total pot $29 | Rake $1.45
+Board [6s 2d 8c 8h 4h]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: eliekh (button) showed [9h Js] and lost with a pair of Eights
+Seat 3: MAKAPRUN (small blind) folded before Flop
+Seat 4: steelNike (big blind) folded before Flop
+Seat 5: smolski15 showed [As Ks] and won ($27.55) with a pair of Eights
+Seat 6: romioxf folded before Flop (didn't bet)
+
+
+PokerStars Hand #181949534886:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:09:29 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($259.37 in chips)
+Seat 2: eliekh ($59.13 in chips)
+Seat 3: MAKAPRUN ($230.28 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($278.79 in chips)
+Reikka89: posts small blind $1
+eliekh: posts big blind $2
+*** HOLE CARDS ***
+MAKAPRUN: raises $3 to $5
+steelNike: folds
+smolski15: folds
+Reikka89: folds
+eliekh: calls $3
+*** FLOP *** [5s 6d Tc]
+eliekh: checks
+MAKAPRUN: bets $3.45
+eliekh: folds
+Uncalled bet ($3.45) returned to MAKAPRUN
+MAKAPRUN collected $10.45 from pot
+MAKAPRUN: doesn't show hand
+*** SUMMARY ***
+Total pot $11 | Rake $0.55
+Board [5s 6d Tc]
+Seat 1: Reikka89 (small blind) folded before Flop
+Seat 2: eliekh (big blind) folded on the Flop
+Seat 3: MAKAPRUN collected ($10.45)
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181949600548:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:11:00 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: Reikka89 ($261.37 in chips)
+Seat 2: eliekh ($48.13 in chips)
+Seat 3: MAKAPRUN ($240.13 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($278.79 in chips)
+steelNike: posts small blind $1
+smolski15: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: folds
+eliekh: raises $2 to $4
+MAKAPRUN: calls $4
+steelNike: folds
+smolski15: calls $2
+*** FLOP *** [6d 4h Js]
+smolski15: checks
+eliekh: bets $8
+MAKAPRUN: folds
+smolski15: folds
+Uncalled bet ($8) returned to eliekh
+eliekh collected $12.35 from pot
+eliekh: doesn't show hand
+*** SUMMARY ***
+Total pot $13 | Rake $0.65
+Board [6d 4h Js]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: eliekh collected ($12.35)
+Seat 3: MAKAPRUN (button) folded on the Flop
+Seat 4: steelNike (small blind) folded before Flop
+Seat 5: smolski15 (big blind) folded on the Flop
+
+
+PokerStars Hand #181949559704:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:10:03 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($258.37 in chips)
+Seat 2: eliekh ($54.13 in chips)
+Seat 3: MAKAPRUN ($235.73 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($278.79 in chips)
+eliekh: posts small blind $1
+MAKAPRUN: posts big blind $2
+*** HOLE CARDS ***
+steelNike: folds
+smolski15: folds
+Reikka89: folds
+eliekh: calls $1
+MAKAPRUN: raises $4 to $6
+eliekh: calls $4
+*** FLOP *** [4c 2c Kc]
+eliekh: checks
+MAKAPRUN: bets $5.70
+eliekh: folds
+Uncalled bet ($5.70) returned to MAKAPRUN
+MAKAPRUN collected $11.40 from pot
+MAKAPRUN: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0.60
+Board [4c 2c Kc]
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 2: eliekh (small blind) folded on the Flop
+Seat 3: MAKAPRUN (big blind) collected ($11.40)
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181949589016:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:10:44 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($258.37 in chips)
+Seat 2: eliekh ($48.13 in chips)
+Seat 3: MAKAPRUN ($241.13 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($278.79 in chips)
+MAKAPRUN: posts small blind $1
+steelNike: posts big blind $2
+*** HOLE CARDS ***
+smolski15: folds
+Reikka89: raises $3.88 to $5.88
+eliekh: folds
+MAKAPRUN: folds
+steelNike: folds
+Uncalled bet ($3.88) returned to Reikka89
+Reikka89 collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 collected ($5)
+Seat 2: eliekh (button) folded before Flop (didn't bet)
+Seat 3: MAKAPRUN (small blind) folded before Flop
+Seat 4: steelNike (big blind) folded before Flop
+Seat 5: smolski15 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181949635750:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:11:48 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($259.37 in chips)
+Seat 2: eliekh ($59.48 in chips)
+Seat 3: MAKAPRUN ($236.13 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($273.79 in chips)
+C1awViper will be allowed to play after the button
+Reikka89: posts small blind $1
+eliekh: posts big blind $2
+*** HOLE CARDS ***
+MAKAPRUN: folds
+steelNike: folds
+smolski15: raises $2.28 to $4.28
+Reikka89: folds
+eliekh: calls $2.28
+*** FLOP *** [Ac Kc Ah]
+eliekh: bets $10
+smolski15: folds
+Uncalled bet ($10) returned to eliekh
+eliekh collected $9.08 from pot
+eliekh: doesn't show hand
+*** SUMMARY ***
+Total pot $9.56 | Rake $0.48
+Board [Ac Kc Ah]
+Seat 1: Reikka89 (small blind) folded before Flop
+Seat 2: eliekh (big blind) collected ($9.08)
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 (button) folded on the Flop
+
+
+PokerStars Hand #181949621463:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:11:28 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($261.37 in chips)
+Seat 2: eliekh ($56.48 in chips)
+Seat 3: MAKAPRUN ($236.13 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($274.79 in chips)
+smolski15: posts small blind $1
+Reikka89: posts big blind $2
+*** HOLE CARDS ***
+eliekh: raises $8 to $10
+C1awViper joins the table at seat #6
+MAKAPRUN: folds
+steelNike: folds
+smolski15: folds
+Reikka89: folds
+Uncalled bet ($8) returned to eliekh
+eliekh collected $5 from pot
+eliekh: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 (big blind) folded before Flop
+Seat 2: eliekh collected ($5)
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: steelNike (button) folded before Flop (didn't bet)
+Seat 5: smolski15 (small blind) folded before Flop
+
+
+PokerStars Hand #181949655131:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:12:15 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($258.37 in chips)
+Seat 2: eliekh ($64.28 in chips)
+Seat 3: MAKAPRUN ($236.13 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($269.51 in chips)
+eliekh: posts small blind $1
+MAKAPRUN: posts big blind $2
+C1awViper: sits out
+*** HOLE CARDS ***
+steelNike: folds
+smolski15: folds
+Reikka89: folds
+eliekh: calls $1
+MAKAPRUN: checks
+*** FLOP *** [Ad Jc Qd]
+eliekh: bets $4
+MAKAPRUN: folds
+Uncalled bet ($4) returned to eliekh
+eliekh collected $3.80 from pot
+eliekh: doesn't show hand
+*** SUMMARY ***
+Total pot $4 | Rake $0.20
+Board [Ad Jc Qd]
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 2: eliekh (small blind) collected ($3.80)
+Seat 3: MAKAPRUN (big blind) folded on the Flop
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 folded before Flop (didn't bet)
+
+
+PokerStars Hand #181949680993:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:12:51 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($258.37 in chips)
+Seat 2: eliekh ($66.08 in chips)
+Seat 3: MAKAPRUN ($234.13 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($269.51 in chips)
+MAKAPRUN: posts small blind $1
+steelNike: posts big blind $2
+C1awViper: sits out
+*** HOLE CARDS ***
+smolski15: raises $3 to $5
+Reikka89: folds
+eliekh: folds
+MAKAPRUN: folds
+steelNike: calls $3
+*** FLOP *** [9c Ks 6h]
+steelNike: checks
+smolski15: checks
+*** TURN *** [9c Ks 6h] [3c]
+steelNike: checks
+smolski15: bets $3
+steelNike: folds
+Uncalled bet ($3) returned to smolski15
+smolski15 collected $10.45 from pot
+smolski15: doesn't show hand
+*** SUMMARY ***
+Total pot $11 | Rake $0.55
+Board [9c Ks 6h 3c]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: eliekh (button) folded before Flop (didn't bet)
+Seat 3: MAKAPRUN (small blind) folded before Flop
+Seat 4: steelNike (big blind) folded on the Turn
+Seat 5: smolski15 collected ($10.45)
+
+
+PokerStars Hand #181949761338:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:14:43 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($258.37 in chips)
+Seat 2: eliekh ($76.13 in chips)
+Seat 3: MAKAPRUN ($225.13 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($272.96 in chips)
+Seat 6: C1awViper ($200 in chips)
+smolski15: posts small blind $1
+C1awViper: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: raises $3.88 to $5.88
+eliekh: calls $5.88
+MAKAPRUN: raises $18.12 to $24
+steelNike: folds
+smolski15: folds
+C1awViper: folds
+Reikka89: folds
+eliekh: raises $52.13 to $76.13 and is all-in
+MAKAPRUN: calls $52.13
+*** FLOP *** [5d Kd 2h]
+*** TURN *** [5d Kd 2h] [8s]
+*** RIVER *** [5d Kd 2h 8s] [6d]
+*** SHOW DOWN ***
+eliekh: shows [Ks Jc] (a pair of Kings)
+MAKAPRUN: shows [Ad Qs] (high card Ace)
+eliekh collected $158.39 from pot
+*** SUMMARY ***
+Total pot $161.14 | Rake $2.75
+Board [5d Kd 2h 8s 6d]
+Seat 1: Reikka89 folded before Flop
+Seat 2: eliekh showed [Ks Jc] and won ($158.39) with a pair of Kings
+Seat 3: MAKAPRUN showed [Ad Qs] and lost with high card Ace
+Seat 4: steelNike (button) folded before Flop (didn't bet)
+Seat 5: smolski15 (small blind) folded before Flop
+Seat 6: C1awViper (big blind) folded before Flop
+
+
+PokerStars Hand #181949740325:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:14:14 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: Reikka89 ($258.37 in chips)
+Seat 2: eliekh ($66.08 in chips)
+Seat 3: MAKAPRUN ($233.13 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($274.96 in chips)
+steelNike: posts small blind $1
+smolski15: posts big blind $2
+C1awViper: sits out
+*** HOLE CARDS ***
+Reikka89: folds
+eliekh: calls $2
+MAKAPRUN: raises $6 to $8
+steelNike: folds
+smolski15: folds
+eliekh: calls $6
+*** FLOP *** [5s Qs 5c]
+eliekh: bets $12
+MAKAPRUN: folds
+Uncalled bet ($12) returned to eliekh
+eliekh collected $18.05 from pot
+eliekh: doesn't show hand
+*** SUMMARY ***
+Total pot $19 | Rake $0.95
+Board [5s Qs 5c]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: eliekh collected ($18.05)
+Seat 3: MAKAPRUN (button) folded on the Flop
+Seat 4: steelNike (small blind) folded before Flop
+Seat 5: smolski15 (big blind) folded before Flop
+
+
+PokerStars Hand #181949791615:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:15:25 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($252.49 in chips)
+Seat 2: eliekh ($158.39 in chips)
+Seat 3: MAKAPRUN ($200 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($271.96 in chips)
+Seat 6: C1awViper ($200 in chips)
+C1awViper: posts small blind $1
+Reikka89: posts big blind $2
+*** HOLE CARDS ***
+eliekh: folds
+MAKAPRUN: raises $3 to $5
+steelNike: folds
+smolski15: folds
+C1awViper: folds
+Reikka89: folds
+Uncalled bet ($3) returned to MAKAPRUN
+MAKAPRUN collected $5 from pot
+MAKAPRUN: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 (big blind) folded before Flop
+Seat 2: eliekh folded before Flop (didn't bet)
+Seat 3: MAKAPRUN collected ($5)
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 (button) folded before Flop (didn't bet)
+Seat 6: C1awViper (small blind) folded before Flop
+
+
+PokerStars Hand #181949802462:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:15:40 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: Reikka89 ($250.49 in chips)
+Seat 2: eliekh ($158.39 in chips)
+Seat 3: MAKAPRUN ($203 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($271.96 in chips)
+Seat 6: C1awViper ($200 in chips)
+Reikka89: posts small blind $1
+eliekh: posts big blind $2
+*** HOLE CARDS ***
+MAKAPRUN: folds
+steelNike: folds
+smolski15: folds
+C1awViper: raises $3 to $5
+Reikka89: folds
+eliekh: calls $3
+*** FLOP *** [8s Ah 4d]
+eliekh: checks
+C1awViper: bets $5.75
+eliekh: calls $5.75
+*** TURN *** [8s Ah 4d] [2c]
+eliekh: checks
+C1awViper: checks
+*** RIVER *** [8s Ah 4d 2c] [Ac]
+eliekh: bets $2
+C1awViper: folds
+Uncalled bet ($2) returned to eliekh
+eliekh collected $21.38 from pot
+eliekh: doesn't show hand
+*** SUMMARY ***
+Total pot $22.50 | Rake $1.12
+Board [8s Ah 4d 2c Ac]
+Seat 1: Reikka89 (small blind) folded before Flop
+Seat 2: eliekh (big blind) collected ($21.38)
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 folded before Flop (didn't bet)
+Seat 6: C1awViper (button) folded on the River
+
+
+PokerStars Hand #181949846655:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:16:41 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($249.49 in chips)
+Seat 2: eliekh ($169.02 in chips)
+Seat 3: MAKAPRUN ($203 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($271.96 in chips)
+Seat 6: C1awViper ($200 in chips)
+eliekh: posts small blind $1
+MAKAPRUN: posts big blind $2
+*** HOLE CARDS ***
+steelNike: folds
+smolski15: raises $3 to $5
+C1awViper: folds
+Reikka89: folds
+eliekh: folds
+MAKAPRUN: calls $3
+*** FLOP *** [5c As 2h]
+MAKAPRUN: checks
+smolski15: bets $6
+MAKAPRUN: raises $13 to $19
+smolski15: folds
+Uncalled bet ($13) returned to MAKAPRUN
+MAKAPRUN collected $21.85 from pot
+MAKAPRUN: doesn't show hand
+*** SUMMARY ***
+Total pot $23 | Rake $1.15
+Board [5c As 2h]
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 2: eliekh (small blind) folded before Flop
+Seat 3: MAKAPRUN (big blind) collected ($21.85)
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 folded on the Flop
+Seat 6: C1awViper folded before Flop (didn't bet)
+
+
+PokerStars Hand #181949889763:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:17:41 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($249.49 in chips)
+Seat 2: eliekh ($168.02 in chips)
+Seat 3: MAKAPRUN ($213.85 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($260.96 in chips)
+Seat 6: C1awViper ($200 in chips)
+MAKAPRUN: posts small blind $1
+steelNike: posts big blind $2
+*** HOLE CARDS ***
+smolski15: folds
+C1awViper: folds
+Reikka89: raises $3.88 to $5.88
+eliekh: calls $5.88
+MAKAPRUN: folds
+steelNike: folds
+*** FLOP *** [Ks 4s 9d]
+Reikka89: bets $6.72
+eliekh: folds
+Uncalled bet ($6.72) returned to Reikka89
+Reikka89 collected $14.02 from pot
+*** SUMMARY ***
+Total pot $14.76 | Rake $0.74
+Board [Ks 4s 9d]
+Seat 1: Reikka89 collected ($14.02)
+Seat 2: eliekh (button) folded on the Flop
+Seat 3: MAKAPRUN (small blind) folded before Flop
+Seat 4: steelNike (big blind) folded before Flop
+Seat 5: smolski15 folded before Flop (didn't bet)
+Seat 6: C1awViper folded before Flop (didn't bet)
+
+
+PokerStars Hand #181949916329:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:18:18 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: Reikka89 ($257.63 in chips)
+Seat 2: eliekh ($162.14 in chips)
+Seat 3: MAKAPRUN ($212.85 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($260.96 in chips)
+Seat 6: C1awViper ($200 in chips)
+steelNike: posts small blind $1
+smolski15: posts big blind $2
+*** HOLE CARDS ***
+C1awViper: folds
+Reikka89: folds
+eliekh: calls $2
+MAKAPRUN: folds
+steelNike: folds
+smolski15: checks
+*** FLOP *** [Jh 4d 3d]
+smolski15: checks
+eliekh: checks
+*** TURN *** [Jh 4d 3d] [9c]
+smolski15: checks
+eliekh: bets $2
+smolski15: calls $2
+*** RIVER *** [Jh 4d 3d 9c] [2d]
+smolski15: checks
+eliekh: bets $8
+smolski15: calls $8
+*** SHOW DOWN ***
+eliekh: shows [Td 8c] (high card Jack)
+smolski15: shows [Kc 3h] (a pair of Threes)
+smolski15 collected $23.75 from pot
+*** SUMMARY ***
+Total pot $25 | Rake $1.25
+Board [Jh 4d 3d 9c 2d]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: eliekh showed [Td 8c] and lost with high card Jack
+Seat 3: MAKAPRUN (button) folded before Flop (didn't bet)
+Seat 4: steelNike (small blind) folded before Flop
+Seat 5: smolski15 (big blind) showed [Kc 3h] and won ($23.75) with a pair of Threes
+Seat 6: C1awViper folded before Flop (didn't bet)
+
+
+PokerStars Hand #181949945484:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:18:58 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($257.63 in chips)
+Seat 2: eliekh ($150.14 in chips)
+Seat 3: MAKAPRUN ($212.85 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($272.71 in chips)
+Seat 6: C1awViper ($200 in chips)
+smolski15: posts small blind $1
+C1awViper: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: raises $3.88 to $5.88
+eliekh: folds
+MAKAPRUN: folds
+steelNike: folds
+smolski15: folds
+C1awViper: folds
+Uncalled bet ($3.88) returned to Reikka89
+Reikka89 collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 collected ($5)
+Seat 2: eliekh folded before Flop (didn't bet)
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: steelNike (button) folded before Flop (didn't bet)
+Seat 5: smolski15 (small blind) folded before Flop
+Seat 6: C1awViper (big blind) folded before Flop
+
+
+PokerStars Hand #181949958536:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:19:16 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($260.63 in chips)
+Seat 2: eliekh ($150.14 in chips)
+Seat 3: MAKAPRUN ($212.85 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($271.71 in chips)
+Seat 6: C1awViper ($200 in chips)
+C1awViper: posts small blind $1
+Reikka89: posts big blind $2
+*** HOLE CARDS ***
+eliekh: raises $2 to $4
+MAKAPRUN: raises $12 to $16
+steelNike: folds
+smolski15: folds
+C1awViper: folds
+Reikka89: folds
+eliekh: calls $12
+*** FLOP *** [6d 9d 4c]
+eliekh: checks
+MAKAPRUN: bets $16.62
+eliekh: calls $16.62
+*** TURN *** [6d 9d 4c] [Kc]
+eliekh: checks
+MAKAPRUN: bets $28
+eliekh: folds
+Uncalled bet ($28) returned to MAKAPRUN
+MAKAPRUN collected $65.49 from pot
+MAKAPRUN: doesn't show hand
+*** SUMMARY ***
+Total pot $68.24 | Rake $2.75
+Board [6d 9d 4c Kc]
+Seat 1: Reikka89 (big blind) folded before Flop
+Seat 2: eliekh folded on the Turn
+Seat 3: MAKAPRUN collected ($65.49)
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 (button) folded before Flop (didn't bet)
+Seat 6: C1awViper (small blind) folded before Flop
+
+
+PokerStars Hand #181949998168:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:20:11 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: Reikka89 ($258.63 in chips)
+Seat 2: eliekh ($117.52 in chips)
+Seat 3: MAKAPRUN ($245.72 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($271.71 in chips)
+Seat 6: C1awViper ($200 in chips)
+Reikka89: posts small blind $1
+eliekh: posts big blind $2
+*** HOLE CARDS ***
+MAKAPRUN: folds
+steelNike: folds
+smolski15: folds
+C1awViper: folds
+Reikka89: raises $3.88 to $5.88
+eliekh: folds
+Uncalled bet ($3.88) returned to Reikka89
+Reikka89 collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0
+Seat 1: Reikka89 (small blind) collected ($4)
+Seat 2: eliekh (big blind) folded before Flop
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 folded before Flop (didn't bet)
+Seat 6: C1awViper (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181950008740:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:20:25 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($260.63 in chips)
+Seat 2: eliekh ($115.52 in chips)
+Seat 3: MAKAPRUN ($245.72 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($271.71 in chips)
+Seat 6: C1awViper ($200 in chips)
+eliekh: posts small blind $1
+MAKAPRUN: posts big blind $2
+*** HOLE CARDS ***
+steelNike: raises $2 to $4
+smolski15: folds
+C1awViper: folds
+Reikka89: folds
+eliekh: raises $6 to $10
+MAKAPRUN: folds
+steelNike: calls $6
+*** FLOP *** [Ks Jh Jd]
+eliekh: bets $10
+steelNike: folds
+Uncalled bet ($10) returned to eliekh
+eliekh collected $20.90 from pot
+eliekh: doesn't show hand
+*** SUMMARY ***
+Total pot $22 | Rake $1.10
+Board [Ks Jh Jd]
+Seat 1: Reikka89 (button) folded before Flop (didn't bet)
+Seat 2: eliekh (small blind) collected ($20.90)
+Seat 3: MAKAPRUN (big blind) folded before Flop
+Seat 4: steelNike folded on the Flop
+Seat 5: smolski15 folded before Flop (didn't bet)
+Seat 6: C1awViper folded before Flop (didn't bet)
+
+
+PokerStars Hand #181950067172:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:21:45 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: Reikka89 ($260.63 in chips)
+Seat 2: eliekh ($124.42 in chips)
+Seat 3: MAKAPRUN ($242.72 in chips)
+Seat 4: steelNike ($202.75 in chips)
+Seat 5: smolski15 ($271.71 in chips)
+Seat 6: C1awViper ($200 in chips)
+steelNike: posts small blind $1
+smolski15: posts big blind $2
+*** HOLE CARDS ***
+C1awViper: folds
+Reikka89: folds
+eliekh: folds
+MAKAPRUN: folds
+steelNike: raises $4 to $6
+smolski15: raises $12 to $18
+steelNike: folds
+Uncalled bet ($12) returned to smolski15
+smolski15 collected $12 from pot
+smolski15: doesn't show hand
+*** SUMMARY ***
+Total pot $12 | Rake $0
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: eliekh folded before Flop (didn't bet)
+Seat 3: MAKAPRUN (button) folded before Flop (didn't bet)
+Seat 4: steelNike (small blind) folded before Flop
+Seat 5: smolski15 (big blind) collected ($12)
+Seat 6: C1awViper folded before Flop (didn't bet)
+
+
+PokerStars Hand #181950038296:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:21:05 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($260.63 in chips)
+Seat 2: eliekh ($126.42 in chips)
+Seat 3: MAKAPRUN ($243.72 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($271.71 in chips)
+Seat 6: C1awViper ($200 in chips)
+MAKAPRUN: posts small blind $1
+steelNike: posts big blind $2
+*** HOLE CARDS ***
+smolski15: folds
+C1awViper: folds
+Reikka89: folds
+eliekh: calls $2
+MAKAPRUN: folds
+steelNike: checks
+*** FLOP *** [3s Jh 2s]
+steelNike: checks
+eliekh: checks
+*** TURN *** [3s Jh 2s] [6c]
+steelNike: checks
+eliekh: checks
+*** RIVER *** [3s Jh 2s 6c] [As]
+steelNike: checks
+eliekh: checks
+*** SHOW DOWN ***
+steelNike: shows [Ah 7c] (a pair of Aces)
+eliekh: mucks hand
+steelNike collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25
+Board [3s Jh 2s 6c As]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: eliekh (button) mucked
+Seat 3: MAKAPRUN (small blind) folded before Flop
+Seat 4: steelNike (big blind) showed [Ah 7c] and won ($4.75) with a pair of Aces
+Seat 5: smolski15 folded before Flop (didn't bet)
+Seat 6: C1awViper folded before Flop (didn't bet)
+
+
+PokerStars Hand #181950087037:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:22:12 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($260.63 in chips)
+Seat 2: eliekh ($124.42 in chips)
+Seat 3: MAKAPRUN ($242.72 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($277.71 in chips)
+Seat 6: C1awViper ($200 in chips)
+smolski15: posts small blind $1
+C1awViper: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: folds
+eliekh has timed out
+eliekh: folds
+MAKAPRUN: raises $3.24 to $5.24
+steelNike: folds
+smolski15: folds
+C1awViper: folds
+Uncalled bet ($3.24) returned to MAKAPRUN
+MAKAPRUN collected $5 from pot
+MAKAPRUN: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: eliekh folded before Flop (didn't bet)
+Seat 3: MAKAPRUN collected ($5)
+Seat 4: steelNike (button) folded before Flop (didn't bet)
+Seat 5: smolski15 (small blind) folded before Flop
+Seat 6: C1awViper (big blind) folded before Flop
+
+
+PokerStars Hand #181950116894:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:22:53 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: Reikka89 ($260.63 in chips)
+Seat 2: eliekh ($124.42 in chips)
+Seat 3: MAKAPRUN ($245.72 in chips)
+Seat 4: steelNike ($200 in chips)
+Seat 5: smolski15 ($276.71 in chips)
+Seat 6: C1awViper ($200 in chips)
+C1awViper: posts small blind $1
+Reikka89: posts big blind $2
+*** HOLE CARDS ***
+eliekh: raises $2 to $4
+MAKAPRUN: folds
+steelNike: raises $10 to $14
+smolski15: folds
+C1awViper: folds
+Reikka89: folds
+eliekh: calls $10
+*** FLOP *** [Qh 5c Ad]
+eliekh: checks
+steelNike: checks
+*** TURN *** [Qh 5c Ad] [2c]
+eliekh: bets $10
+steelNike: calls $10
+*** RIVER *** [Qh 5c Ad 2c] [6d]
+eliekh: checks
+steelNike: bets $14.60
+eliekh: folds
+Uncalled bet ($14.60) returned to steelNike
+steelNike collected $48.45 from pot
+*** SUMMARY ***
+Total pot $51 | Rake $2.55
+Board [Qh 5c Ad 2c 6d]
+Seat 1: Reikka89 (big blind) folded before Flop
+Seat 2: eliekh folded on the River
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: steelNike collected ($48.45)
+Seat 5: smolski15 (button) folded before Flop (didn't bet)
+Seat 6: C1awViper (small blind) folded before Flop
+
+
+PokerStars Hand #181950177795:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:24:16 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: Reikka89 ($258.63 in chips)
+Seat 2: eliekh ($100.42 in chips)
+Seat 3: MAKAPRUN ($245.72 in chips)
+Seat 4: steelNike ($224.45 in chips)
+Seat 5: smolski15 ($276.71 in chips)
+Seat 6: C1awViper ($200 in chips)
+Reikka89: posts small blind $1
+eliekh: posts big blind $2
+*** HOLE CARDS ***
+MAKAPRUN: raises $3 to $5
+steelNike: folds
+smolski15: folds
+C1awViper: folds
+Reikka89: folds
+eliekh: calls $3
+*** FLOP *** [As Ah 3s]
+eliekh: checks
+MAKAPRUN: bets $4
+eliekh: folds
+Uncalled bet ($4) returned to MAKAPRUN
+MAKAPRUN collected $10.45 from pot
+MAKAPRUN: doesn't show hand
+*** SUMMARY ***
+Total pot $11 | Rake $0.55
+Board [As Ah 3s]
+Seat 1: Reikka89 (small blind) folded before Flop
+Seat 2: eliekh (big blind) folded on the Flop
+Seat 3: MAKAPRUN collected ($10.45)
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 folded before Flop (didn't bet)
+Seat 6: C1awViper (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181950198137:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:24:44 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: Reikka89 ($257.63 in chips)
+Seat 2: eliekh ($95.42 in chips)
+Seat 3: MAKAPRUN ($251.17 in chips)
+Seat 4: steelNike ($224.45 in chips)
+Seat 5: smolski15 ($276.71 in chips)
+Seat 6: C1awViper ($200 in chips)
+eliekh: posts small blind $1
+MAKAPRUN: posts big blind $2
+*** HOLE CARDS ***
+steelNike: folds
+smolski15: folds
+C1awViper: folds
+Reikka89: raises $3.88 to $5.88
+eliekh: calls $4.88
+MAKAPRUN: folds
+*** FLOP *** [Js 3s 5s]
+eliekh: checks
+Reikka89: checks
+*** TURN *** [Js 3s 5s] [Ad]
+eliekh: bets $14
+Reikka89: calls $14
+*** RIVER *** [Js 3s 5s Ad] [Ac]
+eliekh: bets $18
+Reikka89: calls $18
+*** SHOW DOWN ***
+eliekh: shows [As 7h] (three of a kind, Aces)
+Reikka89: shows [Tc Ah] (three of a kind, Aces - Jack+Ten kicker)
+Reikka89 collected $75.01 from pot
+*** SUMMARY ***
+Total pot $77.76 | Rake $2.75
+Board [Js 3s 5s Ad Ac]
+Seat 1: Reikka89 (button) showed [Tc Ah] and won ($75.01) with three of a kind, Aces
+Seat 2: eliekh (small blind) showed [As 7h] and lost with three of a kind, Aces
+Seat 3: MAKAPRUN (big blind) folded before Flop
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 folded before Flop (didn't bet)
+Seat 6: C1awViper folded before Flop (didn't bet)
+
+
+PokerStars Hand #181950242633:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:25:45 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 1: Reikka89 ($294.76 in chips)
+Seat 2: eliekh ($57.54 in chips)
+Seat 3: MAKAPRUN ($249.17 in chips)
+Seat 4: steelNike ($224.45 in chips)
+Seat 5: smolski15 ($276.71 in chips)
+Seat 6: C1awViper ($200 in chips)
+MAKAPRUN: posts small blind $1
+steelNike: posts big blind $2
+*** HOLE CARDS ***
+smolski15: folds
+C1awViper: raises $4 to $6
+Reikka89: folds
+eliekh: folds
+MAKAPRUN: folds
+steelNike: folds
+Uncalled bet ($4) returned to C1awViper
+C1awViper collected $5 from pot
+C1awViper: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: eliekh (button) folded before Flop (didn't bet)
+Seat 3: MAKAPRUN (small blind) folded before Flop
+Seat 4: steelNike (big blind) folded before Flop
+Seat 5: smolski15 folded before Flop (didn't bet)
+Seat 6: C1awViper collected ($5)
+
+
+PokerStars Hand #181950288706:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:26:48 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 1: Reikka89 ($294.76 in chips)
+Seat 2: eliekh ($40.99 in chips)
+Seat 3: MAKAPRUN ($248.17 in chips)
+Seat 4: steelNike ($221.45 in chips)
+Seat 5: smolski15 ($274.71 in chips)
+Seat 6: C1awViper ($220.75 in chips)
+smolski15: posts small blind $1
+C1awViper: posts big blind $2
+*** HOLE CARDS ***
+Reikka89: folds
+eliekh: raises $38.99 to $40.99 and is all-in
+MAKAPRUN: folds
+steelNike: folds
+smolski15: folds
+C1awViper: folds
+Uncalled bet ($38.99) returned to eliekh
+eliekh collected $5 from pot
+eliekh: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: eliekh collected ($5)
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: steelNike (button) folded before Flop (didn't bet)
+Seat 5: smolski15 (small blind) folded before Flop
+Seat 6: C1awViper (big blind) folded before Flop
+
+
+PokerStars Hand #181950259530:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:26:08 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 1: Reikka89 ($294.76 in chips)
+Seat 2: eliekh ($57.54 in chips)
+Seat 3: MAKAPRUN ($248.17 in chips)
+Seat 4: steelNike ($222.45 in chips)
+Seat 5: smolski15 ($276.71 in chips)
+Seat 6: C1awViper ($203 in chips)
+steelNike: posts small blind $1
+smolski15: posts big blind $2
+*** HOLE CARDS ***
+C1awViper: raises $4 to $6
+Reikka89: folds
+eliekh: calls $6
+MAKAPRUN: folds
+steelNike: folds
+smolski15: folds
+*** FLOP *** [Ah Qh 8d]
+C1awViper: bets $10.55
+eliekh: calls $10.55
+*** TURN *** [Ah Qh 8d] [Kd]
+C1awViper: bets $25.38
+eliekh: folds
+Uncalled bet ($25.38) returned to C1awViper
+C1awViper collected $34.30 from pot
+C1awViper: doesn't show hand
+*** SUMMARY ***
+Total pot $36.10 | Rake $1.80
+Board [Ah Qh 8d Kd]
+Seat 1: Reikka89 folded before Flop (didn't bet)
+Seat 2: eliekh folded on the Turn
+Seat 3: MAKAPRUN (button) folded before Flop (didn't bet)
+Seat 4: steelNike (small blind) folded before Flop
+Seat 5: smolski15 (big blind) folded before Flop
+Seat 6: C1awViper collected ($34.30)
+
+
+PokerStars Hand #181950300996:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:27:04 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 2: eliekh ($43.99 in chips)
+Seat 3: MAKAPRUN ($248.17 in chips)
+Seat 4: steelNike ($221.45 in chips)
+Seat 5: smolski15 ($273.71 in chips)
+Seat 6: C1awViper ($218.75 in chips)
+C1awViper: posts small blind $1
+Reikka89: is sitting out
+Reikka89 leaves the table
+eliekh: posts big blind $2
+*** HOLE CARDS ***
+MAKAPRUN: raises $3 to $5
+steelNike: folds
+smolski15: folds
+C1awViper: folds
+eliekh: calls $3
+*** FLOP *** [Kc As 3c]
+eliekh: checks
+MAKAPRUN: checks
+*** TURN *** [Kc As 3c] [9s]
+eliekh: checks
+MAKAPRUN: bets $5
+eliekh: folds
+Uncalled bet ($5) returned to MAKAPRUN
+MAKAPRUN collected $10.45 from pot
+MAKAPRUN: doesn't show hand
+*** SUMMARY ***
+Total pot $11 | Rake $0.55
+Board [Kc As 3c 9s]
+Seat 2: eliekh (big blind) folded on the Turn
+Seat 3: MAKAPRUN collected ($10.45)
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 (button) folded before Flop (didn't bet)
+Seat 6: C1awViper (small blind) folded before Flop
+
+
+PokerStars Hand #181950352327:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:28:15 ET
+Table 'Aaltje II' 6-max Seat #2 is the button
+Seat 2: eliekh ($40.99 in chips)
+Seat 3: MAKAPRUN ($251.62 in chips)
+Seat 4: steelNike ($221.45 in chips)
+Seat 5: smolski15 ($273.71 in chips)
+Seat 6: C1awViper ($217.75 in chips)
+MAKAPRUN: posts small blind $1
+steelNike: posts big blind $2
+*** HOLE CARDS ***
+smolski15: folds
+C1awViper: raises $4 to $6
+eliekh: folds
+MAKAPRUN: folds
+steelNike: folds
+Uncalled bet ($4) returned to C1awViper
+C1awViper collected $5 from pot
+C1awViper: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 2: eliekh (button) folded before Flop (didn't bet)
+Seat 3: MAKAPRUN (small blind) folded before Flop
+Seat 4: steelNike (big blind) folded before Flop
+Seat 5: smolski15 folded before Flop (didn't bet)
+Seat 6: C1awViper collected ($5)
+
+
+PokerStars Hand #181950336560:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:27:53 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 2: eliekh ($38.99 in chips)
+Seat 3: MAKAPRUN ($253.62 in chips)
+Seat 4: steelNike ($221.45 in chips)
+Seat 5: smolski15 ($273.71 in chips)
+Seat 6: C1awViper ($217.75 in chips)
+eliekh: posts small blind $1
+MAKAPRUN: posts big blind $2
+*** HOLE CARDS ***
+steelNike: folds
+smolski15: folds
+C1awViper: folds
+eliekh: raises $36.99 to $38.99 and is all-in
+MAKAPRUN: folds
+Uncalled bet ($36.99) returned to eliekh
+eliekh collected $4 from pot
+eliekh: doesn't show hand
+*** SUMMARY ***
+Total pot $4 | Rake $0
+Seat 2: eliekh (small blind) collected ($4)
+Seat 3: MAKAPRUN (big blind) folded before Flop
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 folded before Flop (didn't bet)
+Seat 6: C1awViper (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181950363703:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:28:30 ET
+Table 'Aaltje II' 6-max Seat #3 is the button
+Seat 2: eliekh ($40.99 in chips)
+Seat 3: MAKAPRUN ($250.62 in chips)
+Seat 4: steelNike ($219.45 in chips)
+Seat 5: smolski15 ($273.71 in chips)
+Seat 6: C1awViper ($220.75 in chips)
+steelNike: posts small blind $1
+smolski15: posts big blind $2
+*** HOLE CARDS ***
+C1awViper: folds
+TsyhanouPS joins the table at seat #1
+eliekh: folds
+MAKAPRUN: folds
+steelNike: raises $4 to $6
+smolski15: raises $12 to $18
+steelNike: calls $12
+*** FLOP *** [8d 4h As]
+steelNike: checks
+smolski15: bets $11
+steelNike: folds
+Uncalled bet ($11) returned to smolski15
+smolski15 collected $34.20 from pot
+smolski15: doesn't show hand
+*** SUMMARY ***
+Total pot $36 | Rake $1.80
+Board [8d 4h As]
+Seat 2: eliekh folded before Flop (didn't bet)
+Seat 3: MAKAPRUN (button) folded before Flop (didn't bet)
+Seat 4: steelNike (small blind) folded on the Flop
+Seat 5: smolski15 (big blind) collected ($34.20)
+Seat 6: C1awViper folded before Flop (didn't bet)
+
+
+PokerStars Hand #181950403661:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:29:25 ET
+Table 'Aaltje II' 6-max Seat #4 is the button
+Seat 2: eliekh ($40.99 in chips)
+Seat 3: MAKAPRUN ($250.62 in chips)
+Seat 4: steelNike ($201.45 in chips)
+Seat 5: smolski15 ($289.91 in chips)
+Seat 6: C1awViper ($220.75 in chips)
+smolski15: posts small blind $1
+C1awViper: posts big blind $2
+TsyhanouPS: sits out
+*** HOLE CARDS ***
+eliekh: raises $2 to $4
+MAKAPRUN: folds
+steelNike: folds
+smolski15: folds
+C1awViper: folds
+Uncalled bet ($2) returned to eliekh
+eliekh collected $5 from pot
+eliekh: doesn't show hand
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 2: eliekh collected ($5)
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: steelNike (button) folded before Flop (didn't bet)
+Seat 5: smolski15 (small blind) folded before Flop
+Seat 6: C1awViper (big blind) folded before Flop
+
+
+PokerStars Hand #181950419842:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:29:47 ET
+Table 'Aaltje II' 6-max Seat #5 is the button
+Seat 1: TsyhanouPS ($200 in chips)
+Seat 2: eliekh ($43.99 in chips)
+Seat 3: MAKAPRUN ($250.62 in chips)
+Seat 4: steelNike ($201.45 in chips)
+Seat 5: smolski15 ($288.91 in chips)
+Seat 6: C1awViper ($218.75 in chips)
+C1awViper: posts small blind $1
+TsyhanouPS: posts big blind $2
+*** HOLE CARDS ***
+eliekh: raises $2 to $4
+MAKAPRUN: folds
+steelNike: folds
+smolski15: folds
+C1awViper: raises $8 to $12
+TsyhanouPS: folds
+eliekh: calls $8
+*** FLOP *** [9h 5c 6s]
+C1awViper: bets $9.88
+eliekh: calls $9.88
+*** TURN *** [9h 5c 6s] [Tc]
+C1awViper: bets $23.91
+eliekh: calls $22.11 and is all-in
+Uncalled bet ($1.80) returned to C1awViper
+*** RIVER *** [9h 5c 6s Tc] [4d]
+*** SHOW DOWN ***
+C1awViper: shows [Ac Ah] (a pair of Aces)
+eliekh: shows [7c Ks] (high card King)
+C1awViper collected $87.23 from pot
+*** SUMMARY ***
+Total pot $89.98 | Rake $2.75
+Board [9h 5c 6s Tc 4d]
+Seat 1: TsyhanouPS (big blind) folded before Flop
+Seat 2: eliekh showed [7c Ks] and lost with high card King
+Seat 3: MAKAPRUN folded before Flop (didn't bet)
+Seat 4: steelNike folded before Flop (didn't bet)
+Seat 5: smolski15 (button) folded before Flop (didn't bet)
+Seat 6: C1awViper (small blind) showed [Ac Ah] and won ($87.23) with a pair of Aces
+
+
+PokerStars Hand #181950450257:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:30:28 ET
+Table 'Aaltje II' 6-max Seat #6 is the button
+Seat 1: TsyhanouPS ($200 in chips)
+Seat 4: steelNike ($201.45 in chips)
+Seat 5: smolski15 ($288.91 in chips)
+Seat 6: C1awViper ($261.99 in chips)
+TsyhanouPS: posts small blind $1
+MAKAPRUN: is sitting out
+steelNike: posts big blind $2
+*** HOLE CARDS ***
+smolski15: folds
+MAKAPRUN leaves the table
+C1awViper: folds
+TsyhanouPS: calls $1
+steelNike: checks
+*** FLOP *** [Ad 8c 9h]
+TsyhanouPS: bets $2.46
+steelNike: calls $2.46
+*** TURN *** [Ad 8c 9h] [Kh]
+TsyhanouPS: bets $5.51
+eliekh leaves the table
+steelNike: folds
+Uncalled bet ($5.51) returned to TsyhanouPS
+TsyhanouPS collected $8.47 from pot
+TsyhanouPS: doesn't show hand
+*** SUMMARY ***
+Total pot $8.92 | Rake $0.45
+Board [Ad 8c 9h Kh]
+Seat 1: TsyhanouPS (small blind) collected ($8.47)
+Seat 4: steelNike (big blind) folded on the Turn
+Seat 5: smolski15 folded before Flop (didn't bet)
+Seat 6: C1awViper (button) folded before Flop (didn't bet)
+
+
+PokerStars Hand #181950501853:  Hold'em No Limit ($1/$2 USD) - 2018/02/03 9:31:38 ET
+Table 'Aaltje II' 6-max Seat #1 is the button
+Seat 1: TsyhanouPS ($204.01 in chips)
+Seat 5: smolski15 ($288.91 in chips)
+Seat 6: C1awViper ($261.99 in chips)
+smolski15: posts small blind $1
+C1awViper: posts big blind $2
+*** HOLE CARDS ***
+steelNike leaves the table
+TsyhanouPS: folds
+TsyhanouPS leaves the table
+smolski15: folds
+Uncalled bet ($1) returned to C1awViper
+C1awViper collected $2 from pot
+C1awViper: doesn't show hand
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: TsyhanouPS (button) folded before Flop (didn't bet)
+Seat 5: smolski15 (small blind) folded before Flop
+Seat 6: C1awViper (big blind) collected ($2)
+
+
